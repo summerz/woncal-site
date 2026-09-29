@@ -10,6 +10,10 @@ on:
         required: true
         default: 5
         type: number
+      force_post_id:
+        description: 'Existing post ID to re-read, including image OCR (optional)'
+        required: false
+        type: string
 
 permissions:
   contents: read
@@ -42,7 +46,13 @@ jobs:
         working-directory: source
         env:
           BACKFILL_LIMIT: ${{ inputs.backfill_limit || 5 }}
-        run: python3 scripts/sync.py --limit 10 --backfill-limit "$BACKFILL_LIMIT" --ocr-bin "$RUNNER_TEMP/woncal-ocr"
+          FORCE_POST_ID: ${{ inputs.force_post_id }}
+        run: |
+          args=(--limit 10 --backfill-limit "$BACKFILL_LIMIT" --ocr-bin "$RUNNER_TEMP/woncal-ocr")
+          if [[ -n "$FORCE_POST_ID" ]]; then
+            args+=(--force-post-id "$FORCE_POST_ID")
+          fi
+          python3 scripts/sync.py "${args[@]}"
       - name: Save extracted data privately
         working-directory: source
         run: |
