@@ -1,0 +1,82 @@
+name: Update woncal site
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # 07:00 Asia/Seoul
+  workflow_dispatch:
+    inputs:
+      backfill_limit:
+        description: 'Older posts to process when there are no new posts'
+        required: true
+        default: 5
+        type: number
+
+permissions:
+  contents: read
+
+concurrency:
+  group: woncal-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: macos-latest
+    steps:
+      - name: Check out private source
+        uses: actions/checkout@v7
+        with:
+          repository: summerz/woncal
+          ref: main
+          path: source
+          ssh-key: ${{ secrets.WONCAL_SOURCE_DEPLOY_KEY }}
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: source/package-lock.json
+      - name: Build OCR tool
+        working-directory: source
+        run: swiftc scripts/ocr.swift -o "$RUNNER_TEMP/woncal-ocr"
+      - name: Read new posts or older posts
+        working-directory: source
+        env:
+          BACKFILL_LIMIT: ${{ inputs.backfill_limit || 5 }}
+        run: python3 scripts/sync.py --limit 10 --backfill-limit "$BACKFILL_LIMIT" --ocr-bin "$RUNNER_TEMP/woncal-ocr"
+      - name: Save extracted data privately
+        working-directory: source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/posts.json data/sync-state.json public/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update field news data"
+            git push origin HEAD:main
+          fi
+      - name: Build website
+        working-directory: source
+        env:
+          GITHUB_PAGES_BASE: /
+        run: |
+          npm ci
+          npm run build
+      - name: Check out published branch
+        uses: actions/checkout@v7
+        with:
+          ref: gh-pages
+          path: site
+          ssh-key: ${{ secrets.WONCAL_SITE_DEPLOY_KEY }}
+          persist-credentials: true
+      - name: Publish changed files
+        run: |
+          git -C site config user.name "github-actions[bot]"
+          git -C site config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C site rm -r --ignore-unmatch .
+          cp -R source/dist/. site/
+          touch site/.nojekyll
+          printf 'woncal.summerz.net\n' > site/CNAME
+          git -C site add -A
+          if ! git -C site diff --cached --quiet; then
+            git -C site commit -m "Publish woncal site"
+            git -C site push origin HEAD:gh-pages
+          fi
