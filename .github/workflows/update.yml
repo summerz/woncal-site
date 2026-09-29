@@ -2,7 +2,7 @@ name: Update woncal site
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 07:00 Asia/Seoul
+    - cron: '37 5 * * *' # 14:37 Asia/Seoul; avoid the top of the hour
   workflow_dispatch:
     inputs:
       backfill_limit:
@@ -80,3 +80,34 @@ jobs:
             git -C site commit -m "Publish woncal site"
             git -C site push origin HEAD:gh-pages
           fi
+      - name: Check out public main
+        uses: actions/checkout@v7
+        with:
+          ref: main
+          path: site-main
+          ssh-key: ${{ secrets.WONCAL_SITE_DEPLOY_KEY }}
+          persist-credentials: true
+      - name: Record successful daily check
+        run: |
+          mkdir -p site-main/.automation
+          python3 - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          source = json.loads(Path('source/public/data.json').read_text(encoding='utf-8'))
+          status = {
+              'checkedAt': datetime.now(timezone.utc).isoformat(),
+              'dataGeneratedAt': source['generatedAt'],
+              'workflowRun': f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{os.environ['GITHUB_RUN_ID']}",
+          }
+          Path('site-main/.automation/last-success.json').write_text(
+              json.dumps(status, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          PY
+          git -C site-main config user.name "github-actions[bot]"
+          git -C site-main config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C site-main add .automation/last-success.json
+          git -C site-main commit -m "Record daily source check"
+          git -C site-main push origin HEAD:main
