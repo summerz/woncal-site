@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T06:57:43.915007+00:00",
-  "sampleSize": 25,
+  "generatedAt": "2026-09-29T07:04:10.840763+00:00",
+  "sampleSize": 26,
   "posts": [
     {
       "id": "67492",
@@ -276,6 +276,17 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 4
+    },
+    {
+      "id": "67447",
+      "title": "충북교구 알림(111.09.11)",
+      "region": "충북교구",
+      "publishedAt": "2026-09-11T05:04:41.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+      "imageCount": 12,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 7
     }
   ],
   "events": [
@@ -533,7 +544,7 @@
       ]
     },
     {
-      "id": "67482-9693b59660a7",
+      "id": "67447-75c2c94dc981",
       "postId": "67482",
       "title": "5. 임시 상임위원회",
       "start": "2026-10-25T14:30:00+09:00",
@@ -560,6 +571,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67482",
           "sourceTitle": "충북교구 알림(111.09.23)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1f2c291c-9ae9-4ea6-8001-dfbbb7a88fc3.jpg"
+        },
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg"
         }
       ]
     },
@@ -780,7 +798,7 @@
       ]
     },
     {
-      "id": "67482-83e4f7419b39",
+      "id": "67447-d9048630c66b",
       "postId": "67482",
       "title": "4. 교구 출가교역자 문화기행",
       "start": "2026-10-19",
@@ -808,11 +826,18 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67482",
           "sourceTitle": "충북교구 알림(111.09.23)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1f2c291c-9ae9-4ea6-8001-dfbbb7a88fc3.jpg"
+        },
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg"
         }
       ]
     },
     {
-      "id": "67482-853cc2d2a25a",
+      "id": "67447-0515d88e6980",
       "postId": "67482",
       "title": "3. 교구 문화예술제",
       "start": "2026-10-18T10:30:00+09:00",
@@ -839,6 +864,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67482",
           "sourceTitle": "충북교구 알림(111.09.23)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/332b92f0-5dd2-4015-b315-3692bac5f3ef.jpg"
+        },
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg"
         }
       ]
     },
@@ -1617,6 +1649,37 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67482",
           "sourceTitle": "충북교구 알림(111.09.23)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/332b92f0-5dd2-4015-b315-3692bac5f3ef.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67447-e619588f8147",
+      "postId": "67447",
+      "title": "4. 교화기획위원회",
+      "start": "2026-10-07T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-10-07T10:30:00+09:00"
+        }
+      ],
+      "venue": "",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+      "sourceTitle": "충북교구 알림(111.09.11)",
+      "evidence": "일시 : 10월 7일 오전 10시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg",
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg"
         }
       ]
     },
@@ -3200,6 +3263,68 @@
       ]
     },
     {
+      "id": "67447-7e395795ed9e",
+      "postId": "67447",
+      "title": "역사적 공간성과 가치 재조명",
+      "start": "2026-09-17T14:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-09-17T14:00:00+09:00"
+        }
+      ],
+      "venue": "원불교 익산성지 법은관 2층 대회의실",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+      "sourceTitle": "충북교구 알림(111.09.11)",
+      "evidence": "일시: 2026년 9월 17일(목) 14:00-17:00",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5b8d528e-744e-4397-ab32-7b7d1b6be03b.jpg",
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5b8d528e-744e-4397-ab32-7b7d1b6be03b.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67447-d37a0651a4b2",
+      "postId": "67447",
+      "title": "원기 111년 출가교화단 총단회 일정",
+      "start": "2026-09-16T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-09-16T10:30:00+09:00"
+        }
+      ],
+      "venue": "중앙총부 반백년기념관",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+      "sourceTitle": "충북교구 알림(111.09.11)",
+      "evidence": "일시 : 9월 16일(수) 오전 10시 30분 ~ 오후 17시 10분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/62a43318-1454-441c-ac2f-fe2567592c60.jpg",
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/62a43318-1454-441c-ac2f-fe2567592c60.jpg"
+        }
+      ]
+    },
+    {
       "id": "67451-cedf9e6dad35",
       "postId": "67451",
       "title": "제종협 평화음악회 실무자모임",
@@ -3231,7 +3356,7 @@
       ]
     },
     {
-      "id": "67448-3308f28f69db",
+      "id": "67447-1be7d467cd09",
       "postId": "67448",
       "title": "교화를 보다",
       "start": "2026-09-14T10:00:00+09:00",
@@ -3249,7 +3374,8 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c24694af-be2f-49f5-a775-04b5d2518601.png",
       "regions": [
-        "강원교구"
+        "강원교구",
+        "충북교구"
       ],
       "sources": [
         {
@@ -3258,6 +3384,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67448",
           "sourceTitle": "강원교구 알림 (111.9.11)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c24694af-be2f-49f5-a775-04b5d2518601.png"
+        },
+        {
+          "postId": "67447",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
+          "sourceTitle": "충북교구 알림(111.09.11)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/be75e7ce-7afd-4865-be2d-29fe106de3a0.jpg"
         }
       ]
     }
