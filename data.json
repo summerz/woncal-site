@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T08:36:12.583214+00:00",
-  "sampleSize": 58,
+  "generatedAt": "2026-09-29T08:42:31.523742+00:00",
+  "sampleSize": 63,
   "posts": [
     {
       "id": "67492",
@@ -639,20 +639,78 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 7
+    },
+    {
+      "id": "67376",
+      "title": "서울교구 알림(8월 20일)",
+      "region": "서울교구",
+      "publishedAt": "2026-08-20T09:15:54.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+      "imageCount": 9,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 8
+    },
+    {
+      "id": "67374",
+      "title": "강원교구 알림 (111.8.20)",
+      "region": "강원교구",
+      "publishedAt": "2026-08-20T07:57:22.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
+      "imageCount": 13,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 3
+    },
+    {
+      "id": "67373",
+      "title": "중앙교구 알림 (8.20)",
+      "region": "중앙교구",
+      "publishedAt": "2026-08-20T07:35:02.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67373",
+      "imageCount": 7,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
+    {
+      "id": "67372",
+      "title": "대전충남교구 공지 111.08.20",
+      "region": "대전충남교구",
+      "publishedAt": "2026-08-20T06:45:39.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67372",
+      "imageCount": 7,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
+    },
+    {
+      "id": "67371",
+      "title": "경인교구 교구알림(08.20)",
+      "region": "경기인천교구",
+      "publishedAt": "2026-08-20T06:23:52.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67371",
+      "imageCount": 1,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
     }
   ],
   "events": [
     {
-      "id": "67411-c05220e72190",
+      "id": "67448-45366ca1e093",
       "postId": "67469",
-      "title": "3. 강원중학교",
+      "title": "심심풀이",
       "start": "2026-12-03",
       "dateSpans": [
         {
           "start": "2026-12-03"
+        },
+        {
+          "start": "2026-12-11"
         }
       ],
-      "venue": "",
+      "venue": "강원중학교",
       "region": "강원교구",
       "sourceUrl": "https://won.or.kr/board/BD00010000/read/67469",
       "sourceTitle": "강원교구 알림 (111.9.17)",
@@ -660,6 +718,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/12eb7861-e140-45d6-b4fd-1abfd9ab06c2.png",
+      "aliases": [
+        "67374-6d7cb0e99b13",
+        "67411-c05220e72190",
+        "67431-42610f6319d5",
+        "67469-800dab66df59"
+      ],
       "regions": [
         "강원교구"
       ],
@@ -691,20 +755,31 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67411",
           "sourceTitle": "강원교구 알림 (111.8.28)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d84341b4-cf8b-4433-ac6d-bed0c3f0de11.png"
+        },
+        {
+          "postId": "67374",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
+          "sourceTitle": "강원교구 알림 (111.8.20)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/9b5a07b3-cbcc-4091-b278-ef2be976592a.png"
         }
+      ],
+      "details": [
+        "대상: 1,3학년 각 6학급",
+        "내용: 1단계 Basic과정"
       ]
     },
     {
-      "id": "67411-2673476e06dc",
+      "id": "67448-f052b8dd7760",
       "postId": "67469",
-      "title": "2. 봄내중학교",
+      "title": "심심풀이",
       "start": "2026-11-25",
       "dateSpans": [
         {
           "start": "2026-11-25"
         }
       ],
-      "venue": "",
+      "venue": "봄내중학교",
       "region": "강원교구",
       "sourceUrl": "https://won.or.kr/board/BD00010000/read/67469",
       "sourceTitle": "강원교구 알림 (111.9.17)",
@@ -712,6 +787,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/12eb7861-e140-45d6-b4fd-1abfd9ab06c2.png",
+      "aliases": [
+        "67374-d6296f6f4812",
+        "67411-2673476e06dc",
+        "67431-52e62ff0a6cd",
+        "67469-8f4ba8da7249"
+      ],
       "regions": [
         "강원교구"
       ],
@@ -743,7 +824,18 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67411",
           "sourceTitle": "강원교구 알림 (111.8.28)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d84341b4-cf8b-4433-ac6d-bed0c3f0de11.png"
+        },
+        {
+          "postId": "67374",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
+          "sourceTitle": "강원교구 알림 (111.8.20)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/9b5a07b3-cbcc-4091-b278-ef2be976592a.png"
         }
+      ],
+      "details": [
+        "대상: 3학년 각 6학급",
+        "내용: 1단계 Basic과정"
       ]
     },
     {
@@ -764,6 +856,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/790a8256-963d-494f-876c-4ce45cbf9f6b.png",
+      "aliases": [
+        "67442-8751c9c99ea2",
+        "67466-0eed84a50de2",
+        "67470-88433b3e2644",
+        "67484-5c02b037d40a"
+      ],
       "regions": [
         "서울교구",
         "대전충남교구"
@@ -824,6 +922,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/97ba5dff-55c3-458c-9ed9-6384ad8d32a7.jpg",
+      "aliases": [
+        "67462-7df5abb2e21a"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -862,6 +963,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/b76f5443-f9b7-4bf5-9a04-b4ac47250acb.jpg",
+      "aliases": [
+        "67394-21225446ea5f"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -900,6 +1004,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/332b92f0-5dd2-4015-b315-3692bac5f3ef.jpg",
+      "aliases": [],
       "regions": [
         "충북교구"
       ],
@@ -931,6 +1036,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-86b0340c736c",
+        "67467-05b9a3e1bdd5",
+        "67485-6dd33855135a"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -983,6 +1093,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fe3efb07-b1f3-46d5-bee7-39907ca9fbbc.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -1014,6 +1125,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1f2c291c-9ae9-4ea6-8001-dfbbb7a88fc3.jpg",
+      "aliases": [
+        "67482-9693b59660a7"
+      ],
       "regions": [
         "충북교구"
       ],
@@ -1052,6 +1166,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fe3efb07-b1f3-46d5-bee7-39907ca9fbbc.jpg",
+      "aliases": [
+        "67425-7ab552b977f7",
+        "67438-095594ef478f",
+        "67463-0537ee75a59b",
+        "67491-bf00704cddc2"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -1111,6 +1231,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e1247949-45ae-49c7-83c9-0d8a731d213c.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1143,6 +1264,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cb5cdd53-d877-44a1-96fb-0a1522b3a839.jpg",
+      "aliases": [
+        "67491-5e3773ea36e6"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -1181,6 +1305,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ed2f81f2-2b6a-4618-8e33-dfec6249f3d6.png",
+      "aliases": [
+        "67376-0a6b5147eab1",
+        "67442-3d4f86aa25b4",
+        "67470-3afa12ae1617",
+        "67484-e94199291cb9"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -1212,6 +1342,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
           "sourceTitle": "서울교구 알림(8월 27일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f1f00819-4d08-4002-9ae4-26f92c075200.png"
+        },
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/feba7303-4845-4832-a78c-4901190f42c0.png"
         }
       ]
     },
@@ -1233,6 +1370,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c9b1dd0c-c6b2-4dec-ab82-033cf6e4a46d.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1264,6 +1402,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8e32c1a0-dcd6-42a5-bed0-9c85d9cecbf8.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1296,6 +1435,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ed2f81f2-2b6a-4618-8e33-dfec6249f3d6.png",
+      "aliases": [
+        "67376-ba9181bc9fbe",
+        "67470-7c2450afdde1",
+        "67484-b41998fb7ad8"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -1320,6 +1464,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
           "sourceTitle": "서울교구 알림(8월 27일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f1f00819-4d08-4002-9ae4-26f92c075200.png"
+        },
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/feba7303-4845-4832-a78c-4901190f42c0.png"
         }
       ]
     },
@@ -1342,6 +1493,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1f2c291c-9ae9-4ea6-8001-dfbbb7a88fc3.jpg",
+      "aliases": [
+        "67482-83e4f7419b39"
+      ],
       "regions": [
         "충북교구"
       ],
@@ -1381,6 +1535,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/b69673ba-ffb5-477d-9be1-e93c42ab3845.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1413,6 +1568,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c9b1dd0c-c6b2-4dec-ab82-033cf6e4a46d.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1427,9 +1583,9 @@
       ]
     },
     {
-      "id": "67428-5d2b3343e750",
+      "id": "67440-a6a754e1ed4c",
       "postId": "67440",
-      "title": "교리실천강연대회 가**",
+      "title": "교리실천강연대회",
       "start": "2026-10-18T14:00:00+09:00",
       "dateSpans": [
         {
@@ -1444,6 +1600,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5d732c14-83e2-459e-9055-8d0e9b4708dc.jpg",
+      "aliases": [
+        "67428-5d2b3343e750"
+      ],
       "regions": [
         "대전충남교구"
       ],
@@ -1482,6 +1641,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/332b92f0-5dd2-4015-b315-3692bac5f3ef.jpg",
+      "aliases": [
+        "67482-853cc2d2a25a"
+      ],
       "regions": [
         "충북교구"
       ],
@@ -1520,6 +1682,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/734431ca-271e-49fa-a55a-1d88aa5eff2c.jpg",
+      "aliases": [
+        "67438-e01a2bdfc0b0",
+        "67463-a1f9aa4844b8",
+        "67491-f02dd93d2e35"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -1572,6 +1739,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67485-56afb24c6e55"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -1610,6 +1780,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/69300899-9ba4-4099-8ce6-9eb141e62ed9.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -1642,6 +1813,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fba57b56-6b0d-40e2-afcc-425e114d00b7.jpg",
+      "aliases": [],
       "regions": [
         "광주전남교구"
       ],
@@ -1674,6 +1846,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67485-bdfaf4d5ee63"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -1713,6 +1888,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e1247949-45ae-49c7-83c9-0d8a731d213c.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1744,6 +1920,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -1775,6 +1952,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fba57b56-6b0d-40e2-afcc-425e114d00b7.jpg",
+      "aliases": [
+        "67462-77401fd451d6",
+        "67486-1dcfbc8a14b9"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -1820,6 +2001,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cb5cdd53-d877-44a1-96fb-0a1522b3a839.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -1851,6 +2033,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8e32c1a0-dcd6-42a5-bed0-9c85d9cecbf8.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1883,6 +2066,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e1247949-45ae-49c7-83c9-0d8a731d213c.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -1914,6 +2098,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67485-afaba1998c5d"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -1952,6 +2139,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://img2.stibee.com/26167_3580507_1789003587718424095.jpg",
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -1983,6 +2171,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/5471bed2-86d1-42bf-866a-47686af3dc07.jpg",
+      "aliases": [
+        "67395-fd38a97e44a6",
+        "67436-8128701c24ed",
+        "67464-1e2163c084fa",
+        "67483-c4fd5c9d10ba"
+      ],
       "regions": [
         "경남교구"
       ],
@@ -2042,6 +2236,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/289c88b3-200e-43d0-bf08-7d44d926c409.jpg",
+      "aliases": [],
       "regions": [
         "대전충남교구"
       ],
@@ -2073,6 +2268,26 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/97848bc4-3fc3-4371-81ff-536456350ea2.png",
+      "aliases": [
+        "67463-c79a8a8e9a82",
+        "67464-f5b23f5efc53",
+        "67467-984797e7249f",
+        "67467-9a62e7e3b8a2",
+        "67468-f021007755f2",
+        "67469-2b389caaefe8",
+        "67471-5c5fd3d07f20",
+        "67472-0df4ba1f8507",
+        "67472-66b37d4da5a2",
+        "67483-7b02141f5e8c",
+        "67484-f3616113a400",
+        "67485-61bb0e058218",
+        "67485-f93c2d61518a",
+        "67487-799fab082b18",
+        "67489-a1dd2c7a238f",
+        "67491-3de72bb2acbe",
+        "67492-7908a12678c3",
+        "67492-d0354ee9d47e"
+      ],
       "regions": [
         "제주교구",
         "대구경북교구",
@@ -2209,6 +2424,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/800ff9e3-43a6-41d9-ba4e-27c21e053706.png",
+      "aliases": [
+        "67484-ec86aa4f4174"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -2247,6 +2465,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -2278,6 +2497,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e1247949-45ae-49c7-83c9-0d8a731d213c.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -2309,6 +2529,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e1247949-45ae-49c7-83c9-0d8a731d213c.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -2340,6 +2561,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/332b92f0-5dd2-4015-b315-3692bac5f3ef.jpg",
+      "aliases": [],
       "regions": [
         "충북교구"
       ],
@@ -2371,6 +2593,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg",
+      "aliases": [],
       "regions": [
         "충북교구"
       ],
@@ -2403,6 +2626,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cb5cdd53-d877-44a1-96fb-0a1522b3a839.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -2435,6 +2659,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [
+        "67438-8006e3e39826",
+        "67463-1d51c08182ba"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -2480,6 +2708,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -2511,6 +2740,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c3bd119f-a5f7-4dd3-8a51-273621710896.png",
+      "aliases": [],
       "regions": [
         "강원교구"
       ],
@@ -2542,6 +2772,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -2573,6 +2804,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fba57b56-6b0d-40e2-afcc-425e114d00b7.jpg",
+      "aliases": [
+        "67462-14aedab555ed",
+        "67486-b1da4e85fabe"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -2619,6 +2854,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1fe22152-6952-42b8-b567-1360666f4c44.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -2650,6 +2886,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cb5cdd53-d877-44a1-96fb-0a1522b3a839.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -2682,6 +2919,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -2714,6 +2952,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/b73c48ac-b7b0-4094-ac34-64bd3ee3b0ea.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -2745,6 +2984,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [
+        "67438-b7bc9959daaa",
+        "67463-4b8f93b55cb1"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -2790,6 +3033,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/69300899-9ba4-4099-8ce6-9eb141e62ed9.png",
+      "aliases": [
+        "67472-b6c774612ffd",
+        "67492-08647668afe0"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -2835,6 +3082,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fba57b56-6b0d-40e2-afcc-425e114d00b7.jpg",
+      "aliases": [
+        "67462-5fc61e5ce023",
+        "67486-7f7e56616f19"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -2881,6 +3132,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/d16ed887-e289-4cd6-bcc6-3d2723e04d8e.png",
+      "aliases": [
+        "67442-b08bf24be73e"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -2919,6 +3173,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67487-f94fb295da01"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -2957,6 +3214,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e5e3514d-59ff-4a00-9fa0-abc4aefab5f5.png",
+      "aliases": [
+        "67465-818fabff13d0"
+      ],
       "regions": [
         "경기인천교구"
       ],
@@ -2995,6 +3255,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67487-bec2b49d5f0b"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3033,6 +3296,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cb5cdd53-d877-44a1-96fb-0a1522b3a839.jpg",
+      "aliases": [
+        "67438-1521af9917aa",
+        "67463-fd3228d9269c",
+        "67491-ff8aff56dafe"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -3085,6 +3353,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67487-48d6ada34eee"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3123,6 +3394,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/69300899-9ba4-4099-8ce6-9eb141e62ed9.png",
+      "aliases": [
+        "67472-111337b3dfcc",
+        "67492-768b6abeab4f"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -3169,6 +3444,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/69300899-9ba4-4099-8ce6-9eb141e62ed9.png",
+      "aliases": [
+        "67492-986153cfee07"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -3207,6 +3485,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9956e5b2-ff8a-4921-819f-8073ef466ed1.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -3239,6 +3518,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -3270,6 +3550,12 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fe3efb07-b1f3-46d5-bee7-39907ca9fbbc.jpg",
+      "aliases": [
+        "67425-a3afd4879eb7",
+        "67438-7ace871be2f2",
+        "67463-2bda5cec402a",
+        "67491-6e0ca3377e29"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -3329,6 +3615,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/aeb90cba-ca66-46d7-83e6-e3baeea124f1.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -3360,6 +3647,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/6bb81dec-21e4-47a6-8fa8-70851274a56b.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -3391,6 +3679,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -3422,6 +3711,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -3453,6 +3743,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -3484,6 +3775,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -3515,6 +3807,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c3bd119f-a5f7-4dd3-8a51-273621710896.png",
+      "aliases": [],
       "regions": [
         "강원교구"
       ],
@@ -3546,6 +3839,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/11d5c11c-4411-4892-9129-527ea46e5ca3.jpg",
+      "aliases": [
+        "67462-c8e4dcf56830"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -3584,6 +3880,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a2019b9a-8645-4b97-abf1-257204ede643.png",
+      "aliases": [],
       "regions": [
         "군종교구"
       ],
@@ -3615,6 +3912,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e78dbe3f-d29e-4baf-b844-292a9142c41e.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -3646,6 +3944,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/75ca7ca0-978d-4217-a76d-dbcbf79e8db3.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -3677,6 +3976,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9a402995-61aa-46f7-9114-52dc39457e28.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -3708,6 +4008,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-69b479f3a367"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3746,6 +4049,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-6b6bd993a3f2"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3784,6 +4090,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/d439a173-980d-41e4-8fa7-202e5e293aa1.jpg",
+      "aliases": [
+        "67425-d780ee69968c",
+        "67438-6bc55ffc8a3a",
+        "67463-0f196f99f2d4"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -3836,6 +4147,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c884ece7-4d91-4d4d-a674-d019815cfed7.png",
+      "aliases": [
+        "67472-8a9c6109a770"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -3874,6 +4188,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-09d3c07dcc0d",
+        "67467-679a84ad2ba9"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -3919,6 +4237,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-0fa39adbd38d"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3957,6 +4278,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://img2.stibee.com/26167_3580507_1789017614128184582.png",
+      "aliases": [
+        "67468-546bd4958d0f"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -3995,6 +4319,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://img2.stibee.com/26167_3568859_1788327003514945240.png",
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -4026,6 +4351,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/63464377-6b19-4f1f-ab7f-11c7294f4b1f.png",
+      "aliases": [
+        "67472-830b8e8a46d4"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -4065,6 +4393,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -4096,6 +4425,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-96ffd9e29f69"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4134,6 +4466,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-811fc8c413c2"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4172,6 +4507,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-87e2ebd2a203"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4211,6 +4549,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f062d0fd-fca6-4fcd-99e1-7c89708d9148.jpg",
+      "aliases": [
+        "67438-b282d82da65e",
+        "67463-eaf2501b8a9d"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -4256,6 +4598,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/15aff2f0-e20a-4c1c-8e38-5ed29f140b1f.jpg",
+      "aliases": [],
       "regions": [
         "대전충남교구"
       ],
@@ -4287,6 +4630,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/15aff2f0-e20a-4c1c-8e38-5ed29f140b1f.jpg",
+      "aliases": [],
       "regions": [
         "대전충남교구"
       ],
@@ -4318,6 +4662,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5f423258-c001-427a-b44a-9a2b828c1b58.jpg",
+      "aliases": [
+        "67440-a4a38f99c4db"
+      ],
       "regions": [
         "대전충남교구"
       ],
@@ -4356,6 +4703,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5f423258-c001-427a-b44a-9a2b828c1b58.jpg",
+      "aliases": [
+        "67440-cf42e3f93547"
+      ],
       "regions": [
         "대전충남교구"
       ],
@@ -4394,6 +4744,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-aa3a372a95e3"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4433,6 +4786,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-9afac6969f2b"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -4472,6 +4828,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c884ece7-4d91-4d4d-a674-d019815cfed7.png",
+      "aliases": [
+        "67451-c31466d490f5",
+        "67472-865e9f2c6613"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -4518,6 +4878,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67468-0adeb7417a14"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4556,6 +4919,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-a0235ac4107a"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -4595,6 +4961,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ce33e669-7e3a-4612-bf6c-0c5837e4db21.jpg",
+      "aliases": [
+        "67394-a5aa9320e7ac"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -4633,6 +5002,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/6bb81dec-21e4-47a6-8fa8-70851274a56b.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -4664,6 +5034,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5b8d528e-744e-4397-ab32-7b7d1b6be03b.jpg",
+      "aliases": [],
       "regions": [
         "충북교구"
       ],
@@ -4695,6 +5066,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/62a43318-1454-441c-ac2f-fe2567592c60.jpg",
+      "aliases": [],
       "regions": [
         "충북교구"
       ],
@@ -4726,6 +5098,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "중앙교구"
       ],
@@ -4757,6 +5130,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/17a07b9a-bc9b-4b8a-bd6b-80a65962f36d.jpg",
+      "aliases": [
+        "67438-cf58db86e770"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -4795,6 +5171,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -4826,6 +5203,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/17a07b9a-bc9b-4b8a-bd6b-80a65962f36d.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -4858,6 +5236,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -4889,6 +5268,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a87f7ec-0bac-4470-a16c-831e69fa7255.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -4920,6 +5300,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-152f13cd55e7"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -4958,6 +5341,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9956e5b2-ff8a-4921-819f-8073ef466ed1.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -4989,6 +5373,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/d16ed887-e289-4cd6-bcc6-3d2723e04d8e.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -5020,6 +5405,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/59661800-c0be-4064-8b51-08ca1596380e.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -5051,6 +5437,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-5325d43ea3b9"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5089,6 +5478,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-cbb0a8f27a8d"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5127,6 +5519,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/75ca7ca0-978d-4217-a76d-dbcbf79e8db3.png",
+      "aliases": [
+        "67442-ae06ee72b131"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -5165,6 +5560,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c24694af-be2f-49f5-a775-04b5d2518601.png",
+      "aliases": [
+        "67448-3308f28f69db"
+      ],
       "regions": [
         "강원교구",
         "충북교구"
@@ -5205,6 +5603,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -5236,6 +5635,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67382-f2c06777a94c",
+        "67426-6140fbf48568",
+        "67439-d1e93a0615c1"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5288,6 +5692,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/41cc0f40-b010-48b5-afb4-d7aaa9382ead.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -5319,6 +5724,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5a21e9e5-f5f1-4f88-8cf2-c6d961fd6cbb.jpg",
+      "aliases": [
+        "67425-8ad29957e3c9"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -5357,6 +5765,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-72a80cdd73fd"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5395,6 +5806,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg",
+      "aliases": [
+        "67394-cd18d8d7565b",
+        "67435-6cfec26b3ae4"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -5440,6 +5855,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-524c16b13da2"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -5478,6 +5896,11 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ba249d90-b6f3-46bb-8406-436f0d4865a3.png",
+      "aliases": [
+        "67376-f6827d1f9cd9",
+        "67429-39d03595ef41",
+        "67442-a3b7b248ac13"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -5502,6 +5925,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
           "sourceTitle": "서울교구 알림(8월 27일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/dc0ab6db-7817-441e-8492-ffa76e7782a5.png"
+        },
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f792a450-656e-4460-a87c-bc9a8c18f928.png"
         }
       ]
     },
@@ -5523,6 +5953,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-c6f1424ca57b"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5562,6 +5995,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/cba9e3b0-8616-498c-b14f-b696b33deb11.jpg",
+      "aliases": [
+        "67440-ac638d324b4b"
+      ],
       "regions": [
         "대전충남교구"
       ],
@@ -5600,6 +6036,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/791581c3-211e-43ea-87a3-0b7d3fc8b82a.jpg",
+      "aliases": [],
       "regions": [
         "광주전남교구"
       ],
@@ -5631,6 +6068,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67441-f0cd951041bf"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -5669,6 +6109,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67439-f9f7922f5b97"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5707,6 +6150,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -5738,6 +6182,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -5769,6 +6214,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -5800,6 +6246,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9a402995-61aa-46f7-9114-52dc39457e28.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -5831,6 +6278,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-fe9c06ffcb50"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -5869,6 +6319,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/17a07b9a-bc9b-4b8a-bd6b-80a65962f36d.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -5900,6 +6351,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cc88444e-6be0-4836-9825-d2fd697c2a84.png",
+      "aliases": [],
       "regions": [
         "군종교구"
       ],
@@ -5931,6 +6383,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a87f7ec-0bac-4470-a16c-831e69fa7255.jpg",
+      "aliases": [
+        "67425-3cc923e88814"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -5969,6 +6424,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-99713110f371"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6007,6 +6465,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9a402995-61aa-46f7-9114-52dc39457e28.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -6039,6 +6498,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-b5405a93a659"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6077,6 +6539,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a87f7ec-0bac-4470-a16c-831e69fa7255.jpg",
+      "aliases": [
+        "67425-8092f04abc9c"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -6115,6 +6580,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -6146,6 +6612,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a87f7ec-0bac-4470-a16c-831e69fa7255.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -6177,6 +6644,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7616185c-9bdc-4e3a-b2a9-300038d30bf8.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -6208,6 +6676,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/cc88444e-6be0-4836-9825-d2fd697c2a84.png",
+      "aliases": [],
       "regions": [
         "군종교구"
       ],
@@ -6239,6 +6708,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4a7bbf9c-928e-42f1-bc33-138d7510fd92.png",
+      "aliases": [],
       "regions": [
         "서울교구"
       ],
@@ -6254,8 +6724,8 @@
     },
     {
       "id": "67404-c25dcb587ac9",
-      "postId": "67404",
-      "title": "교화구조개선 TF 2차 교도회장단 설명회",
+      "postId": "67376",
+      "title": "교화구조개선 TF 2차 회장단 설명회",
       "start": "2026-09-06T15:00:00+09:00",
       "dateSpans": [
         {
@@ -6264,12 +6734,15 @@
       ],
       "venue": "서울교구청 B1 한강교당 대각전",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
-      "sourceTitle": "서울교구 알림(8월 27일)",
-      "evidence": "D 일시: 9월 6일(일) 오후 3시",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+      "sourceTitle": "서울교구 알림(8월 20일)",
+      "evidence": "D 일시: 9월 6일(월) 오후 3시",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f6a46929-8611-4421-aef1-7748080d71ed.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png",
+      "aliases": [
+        "67376-31a14b2e727e"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -6280,6 +6753,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
           "sourceTitle": "서울교구 알림(8월 27일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f6a46929-8611-4421-aef1-7748080d71ed.png"
+        },
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png"
         }
       ]
     },
@@ -6301,6 +6781,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-d8e2af4b20f2"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6339,6 +6822,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "중앙교구"
       ],
@@ -6370,6 +6854,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/b946ed90-d1a8-4bbc-9ef3-6a1fdd37be25.jpg",
+      "aliases": [
+        "67394-cd56a4725498"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -6408,6 +6895,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-007b974f9678"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6446,6 +6936,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-3fe80c29c9ec"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6484,6 +6977,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a87f7ec-0bac-4470-a16c-831e69fa7255.jpg",
+      "aliases": [
+        "67425-9d899aa9699a"
+      ],
       "regions": [
         "대구경북교구"
       ],
@@ -6522,6 +7018,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/b946ed90-d1a8-4bbc-9ef3-6a1fdd37be25.jpg",
+      "aliases": [
+        "67394-c26720657842"
+      ],
       "regions": [
         "광주전남교구"
       ],
@@ -6560,6 +7059,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "중앙교구"
       ],
@@ -6591,6 +7091,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7e739bc4-ae28-4ee6-b0e8-5c315c77f3d7.png",
+      "aliases": [
+        "67374-1c6ffa46217f",
+        "67431-43341ed824cd"
+      ],
       "regions": [
         "강원교구"
       ],
@@ -6608,6 +7112,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67411",
           "sourceTitle": "강원교구 알림 (111.8.28)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/40e85e65-64af-4e39-9eb2-502e9f46fdeb.png"
+        },
+        {
+          "postId": "67374",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
+          "sourceTitle": "강원교구 알림 (111.8.20)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/209fbd70-6a03-4b09-bb5e-5ceaa0c1bfe3.png"
         }
       ]
     },
@@ -6629,6 +7140,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-e417f321c398"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6667,6 +7181,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "중앙교구"
       ],
@@ -6698,6 +7213,10 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a919e95-1e61-46a6-8b42-29d348cb1ea6.jpg",
+      "aliases": [
+        "67373-0d961bda3a11",
+        "67424-ca8725c46b06"
+      ],
       "regions": [
         "중앙교구"
       ],
@@ -6715,6 +7234,45 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67400",
           "sourceTitle": "중앙교구 알림(8.27)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0a919e95-1e61-46a6-8b42-29d348cb1ea6.jpg"
+        },
+        {
+          "postId": "67373",
+          "region": "중앙교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67373",
+          "sourceTitle": "중앙교구 알림 (8.20)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5ffb672f-c413-4014-b13a-3135150a876c.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67376-0484d3e30206",
+      "postId": "67376",
+      "title": "신청안내",
+      "start": "2026-09-05",
+      "dateSpans": [
+        {
+          "start": "2026-09-05"
+        }
+      ],
+      "venue": "소태산기념관 종교동 3층 옥상정원",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+      "sourceTitle": "서울교구 알림(8월 20일)",
+      "evidence": "일시: 2026년 9월 5일(토)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png"
         }
       ]
     },
@@ -6736,6 +7294,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [
+        "67426-176d789c6702"
+      ],
       "regions": [
         "전북교구"
       ],
@@ -6774,6 +7335,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -6805,6 +7367,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7616185c-9bdc-4e3a-b2a9-300038d30bf8.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -6836,6 +7399,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/99d88fb4-c344-4742-8dd5-1289fc3bea35.jpg",
+      "aliases": [],
       "regions": [
         "대구경북교구"
       ],
@@ -6867,6 +7431,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -6898,6 +7463,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f6a46929-8611-4421-aef1-7748080d71ed.png",
+      "aliases": [
+        "67376-10d8fa0b61e0"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -6908,6 +7476,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67404",
           "sourceTitle": "서울교구 알림(8월 27일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f6a46929-8611-4421-aef1-7748080d71ed.png"
+        },
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png"
         }
       ]
     },
@@ -6930,6 +7505,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
+      "aliases": [
+        "67377-87b9a292bf67"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -6968,6 +7546,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e8c88990-5547-44c1-98c3-2268367ed49c.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -6999,6 +7578,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/96bb6d6e-02c9-4a2c-abe1-9ff5dfb58f65.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -7030,6 +7610,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
+      "aliases": [
+        "67377-5c8908a41529"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -7068,6 +7651,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/906ff5f6-ff92-43be-9949-6111ff924902.jpg",
+      "aliases": [],
       "regions": [
         "부산울산교구"
       ],
@@ -7099,6 +7683,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -7131,6 +7716,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -7163,6 +7749,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
@@ -7194,6 +7781,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -7204,6 +7792,70 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67382",
           "sourceTitle": "전북교구 알림(111.8.21)",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "67376-b2f3771365ec",
+      "postId": "67376",
+      "title": "여의도지구 제2회 마음키움페스티벌 안내",
+      "start": "2026-08-23T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-23T10:30:00+09:00"
+        }
+      ],
+      "venue": "소태산기념관 종교동 1층 소태산홀",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+      "sourceTitle": "서울교구 알림(8월 20일)",
+      "evidence": "D 일시: 8월 23일(일) 10:30~12:30",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7d38c163-4b36-47a4-87a4-20587a91f7b7.png"
+        }
+      ]
+    },
+    {
+      "id": "67376-c592a5e3a4ce",
+      "postId": "67376",
+      "title": "문의. 원불교환경연대 070.7010.6667",
+      "start": "2026-08-22T18:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-22T18:00:00+09:00"
+        }
+      ],
+      "venue": "노회찬의 집 3층 6411홀(서울시 종로구 종로53길 7-13)",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+      "sourceTitle": "서울교구 알림(8월 20일)",
+      "evidence": "D 일시: 2026년 8월 22일(토) 14~18시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/74c5bd57-335f-41a1-bc24-01a4225c00f6.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67376",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67376",
+          "sourceTitle": "서울교구 알림(8월 20일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/74c5bd57-335f-41a1-bc24-01a4225c00f6.png"
         }
       ]
     },
@@ -7226,6 +7878,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -7257,6 +7910,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": null,
+      "aliases": [],
       "regions": [
         "전북교구"
       ],
@@ -7288,6 +7942,7 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
+      "aliases": [],
       "regions": [
         "제주교구"
       ],
