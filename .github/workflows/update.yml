@@ -48,7 +48,7 @@ jobs:
           BACKFILL_LIMIT: ${{ inputs.backfill_limit || 5 }}
           FORCE_POST_ID: ${{ inputs.force_post_id }}
         run: |
-          args=(--limit 10 --backfill-limit "$BACKFILL_LIMIT" --ocr-bin "$RUNNER_TEMP/woncal-ocr")
+          args=(--limit 5 --backfill-limit "$BACKFILL_LIMIT" --ocr-bin "$RUNNER_TEMP/woncal-ocr")
           if [[ -n "$FORCE_POST_ID" ]]; then
             args+=(--force-post-id "$FORCE_POST_ID")
           fi
