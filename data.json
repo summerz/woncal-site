@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T07:51:32.201709+00:00",
-  "sampleSize": 32,
+  "generatedAt": "2026-09-29T07:59:01.540723+00:00",
+  "sampleSize": 33,
   "posts": [
     {
       "id": "67492",
@@ -353,6 +353,17 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 1
+    },
+    {
+      "id": "67435",
+      "title": "광주전남교구 알림(111.09.10)",
+      "region": "광주전남교구",
+      "publishedAt": "2026-09-10T00:22:09.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+      "imageCount": 27,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 7
     }
   ],
   "events": [
@@ -493,7 +504,7 @@
       ]
     },
     {
-      "id": "67462-7df5abb2e21a",
+      "id": "67435-f59345cdbb7f",
       "postId": "67462",
       "title": "교구 사정(교구사무국)",
       "start": "2026-11-13",
@@ -520,6 +531,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67462",
           "sourceTitle": "광주전남교구 알림(111.09.17)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/97ba5dff-55c3-458c-9ed9-6384ad8d32a7.jpg"
+        },
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8867feb1-ac7b-442a-91f9-90781680a854.jpg"
         }
       ]
     },
@@ -1287,7 +1305,7 @@
       ]
     },
     {
-      "id": "67462-77401fd451d6",
+      "id": "67435-9607120f56fb",
       "postId": "67486",
       "title": "[목포] 지구법위사정",
       "start": "2026-10-16T10:00:00+09:00",
@@ -1321,6 +1339,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67462",
           "sourceTitle": "광주전남교구 알림(111.09.17)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/11d5c11c-4411-4892-9129-527ea46e5ca3.jpg"
+        },
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg"
         }
       ]
     },
@@ -2057,7 +2082,7 @@
       ]
     },
     {
-      "id": "67462-14aedab555ed",
+      "id": "67435-b526fd358bb1",
       "postId": "67486",
       "title": "[동부] 지구법위사정",
       "start": "2026-10-06T10:00:00+09:00",
@@ -2091,6 +2116,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67462",
           "sourceTitle": "광주전남교구 알림(111.09.17)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/11d5c11c-4411-4892-9129-527ea46e5ca3.jpg"
+        },
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg"
         }
       ]
     },
@@ -2305,7 +2337,7 @@
       ]
     },
     {
-      "id": "67462-5fc61e5ce023",
+      "id": "67435-c9a8efbe4858",
       "postId": "67486",
       "title": "[서부] 지구법위사정",
       "start": "2026-10-05T10:00:00+09:00",
@@ -2339,6 +2371,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67462",
           "sourceTitle": "광주전남교구 알림(111.09.17)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/11d5c11c-4411-4892-9129-527ea46e5ca3.jpg"
+        },
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg"
         }
       ]
     },
@@ -2949,7 +2988,7 @@
       ]
     },
     {
-      "id": "67462-c8e4dcf56830",
+      "id": "67435-2870b879892c",
       "postId": "67462",
       "title": "[순천] 지구법위사정",
       "start": "2026-09-21T10:00:00+09:00",
@@ -2976,6 +3015,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67462",
           "sourceTitle": "광주전남교구 알림(111.09.17)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/11d5c11c-4411-4892-9129-527ea46e5ca3.jpg"
+        },
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg"
         }
       ]
     },
@@ -4432,6 +4478,37 @@
       ]
     },
     {
+      "id": "67435-6cfec26b3ae4",
+      "postId": "67435",
+      "title": "[동부] 교화협의회",
+      "start": "2026-09-12T15:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-09-12T15:00:00+09:00"
+        }
+      ],
+      "venue": "광주 인성고 체육관(서문대로 390)",
+      "region": "광주전남교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+      "sourceTitle": "광주전남교구 알림(111.09.10)",
+      "evidence": "일시 : 9월 12일(토) 오후 3시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg",
+      "regions": [
+        "광주전남교구"
+      ],
+      "sources": [
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/bc078a2f-9c16-4858-a0af-9afba34bf154.jpg"
+        }
+      ]
+    },
+    {
       "id": "67441-524c16b13da2",
       "postId": "67441",
       "title": "청년체육대회",
@@ -4553,6 +4630,37 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67440",
           "sourceTitle": "111.09.10.대전충남교구 알림",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5d732c14-83e2-459e-9055-8d0e9b4708dc.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67435-70e5c09bd0a2",
+      "postId": "67435",
+      "title": "원불교의 역할",
+      "start": "2026-09-11T19:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-09-11T19:00:00+09:00"
+        }
+      ],
+      "venue": "현 영산교당 주임교무",
+      "region": "광주전남교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+      "sourceTitle": "광주전남교구 알림(111.09.10)",
+      "evidence": "2026. 9. 11 (금) 오후 7시 ~ 8시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/791581c3-211e-43ea-87a3-0b7d3fc8b82a.jpg",
+      "regions": [
+        "광주전남교구"
+      ],
+      "sources": [
+        {
+          "postId": "67435",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67435",
+          "sourceTitle": "광주전남교구 알림(111.09.10)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/791581c3-211e-43ea-87a3-0b7d3fc8b82a.jpg"
         }
       ]
     },
