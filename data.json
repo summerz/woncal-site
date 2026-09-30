@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T09:53:56.458029+00:00",
-  "sampleSize": 68,
+  "generatedAt": "2026-09-30T05:49:49.711723+00:00",
+  "sampleSize": 73,
   "posts": [
     {
       "id": "67492",
@@ -749,6 +749,61 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 1
+    },
+    {
+      "id": "67356",
+      "title": " 영광교구 현장소식 8월 상반기",
+      "region": "영광교구",
+      "publishedAt": "2026-08-16T10:33:51.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67356",
+      "imageCount": 1,
+      "errors": [],
+      "status": "no_schedule",
+      "eventCount": 0
+    },
+    {
+      "id": "67352",
+      "title": "강원교구 알림 (111.8.14)",
+      "region": "강원교구",
+      "publishedAt": "2026-08-14T05:43:00.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67352",
+      "imageCount": 11,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67350",
+      "title": "충북교구 알림(111.08.14)",
+      "region": "충북교구",
+      "publishedAt": "2026-08-14T02:27:47.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67350",
+      "imageCount": 6,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67348",
+      "title": "경인교구 교구알림(08.13)",
+      "region": "경기인천교구",
+      "publishedAt": "2026-08-14T00:07:41.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67348",
+      "imageCount": 1,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
+    },
+    {
+      "id": "67347",
+      "title": "제주교구 현장소식 08.13",
+      "region": "제주교구",
+      "publishedAt": "2026-08-13T12:17:49.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+      "imageCount": 19,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 5
     }
   ],
   "events": [
@@ -774,6 +829,7 @@
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/12eb7861-e140-45d6-b4fd-1abfd9ab06c2.png",
       "aliases": [
+        "67352-755003ddf302",
         "67374-6d7cb0e99b13",
         "67411-c05220e72190",
         "67431-42610f6319d5",
@@ -817,6 +873,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
           "sourceTitle": "강원교구 알림 (111.8.20)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/9b5a07b3-cbcc-4091-b278-ef2be976592a.png"
+        },
+        {
+          "postId": "67352",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67352",
+          "sourceTitle": "강원교구 알림 (111.8.14)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/aa77f51f-e9ee-47e4-9ba5-8988f31cbd0d.png"
         }
       ],
       "details": [
@@ -843,6 +906,7 @@
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/12eb7861-e140-45d6-b4fd-1abfd9ab06c2.png",
       "aliases": [
+        "67352-4e31dedfc6a6",
         "67374-d6296f6f4812",
         "67411-2673476e06dc",
         "67431-52e62ff0a6cd",
@@ -886,6 +950,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67374",
           "sourceTitle": "강원교구 알림 (111.8.20)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/9b5a07b3-cbcc-4091-b278-ef2be976592a.png"
+        },
+        {
+          "postId": "67352",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67352",
+          "sourceTitle": "강원교구 알림 (111.8.14)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/aa77f51f-e9ee-47e4-9ba5-8988f31cbd0d.png"
         }
       ],
       "details": [
@@ -1189,6 +1260,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1f2c291c-9ae9-4ea6-8001-dfbbb7a88fc3.jpg",
       "aliases": [
+        "67350-e924b64bafde",
         "67482-9693b59660a7"
       ],
       "regions": [
@@ -1208,6 +1280,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67447",
           "sourceTitle": "충북교구 알림(111.09.11)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/8bdf9709-305a-40b2-9c35-9c35b19401d8.jpg"
+        },
+        {
+          "postId": "67350",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67350",
+          "sourceTitle": "충북교구 알림(111.08.14)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/25252beb-1034-424a-ab4e-32fba88d0526.jpg"
         }
       ]
     },
@@ -7518,6 +7597,38 @@
       ]
     },
     {
+      "id": "67350-f9510193f019",
+      "postId": "67350",
+      "title": "1. 교화기획위원회",
+      "start": "2026-09-02T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-09-02T10:30:00+09:00"
+        }
+      ],
+      "venue": "교구사무국",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67350",
+      "sourceTitle": "충북교구 알림(111.08.14)",
+      "evidence": "일시 : 9월 2일(화) 오전 10시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/25252beb-1034-424a-ab4e-32fba88d0526.jpg",
+      "aliases": [],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67350",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67350",
+          "sourceTitle": "충북교구 알림(111.08.14)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/25252beb-1034-424a-ab4e-32fba88d0526.jpg"
+        }
+      ]
+    },
+    {
       "id": "67405-c47414131b16",
       "postId": "67405",
       "title": "[교구] 감찰원 감사",
@@ -7724,6 +7835,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
       "aliases": [
+        "67347-4d3f285cfb6b",
         "67377-87b9a292bf67"
       ],
       "regions": [
@@ -7743,6 +7855,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67377",
           "sourceTitle": "제주교구 현장소식 08.20",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png"
+        },
+        {
+          "postId": "67347",
+          "region": "제주교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+          "sourceTitle": "제주교구 현장소식 08.13",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5c2e24e6-e5be-4069-98a2-41d5eb9471bc.png"
         }
       ]
     },
@@ -7829,6 +7948,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/10cec201-0d5c-4c5c-8e27-8e9620c3e6e5.png",
       "aliases": [
+        "67347-0aac9dc2d03f",
         "67377-5c8908a41529"
       ],
       "regions": [
@@ -7848,6 +7968,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67377",
           "sourceTitle": "제주교구 현장소식 08.20",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png"
+        },
+        {
+          "postId": "67347",
+          "region": "제주교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+          "sourceTitle": "제주교구 현장소식 08.13",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5c2e24e6-e5be-4069-98a2-41d5eb9471bc.png"
         }
       ]
     },
@@ -7910,7 +8037,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
-      "aliases": [],
+      "aliases": [
+        "67347-a8a7500a096e"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -7921,6 +8050,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67377",
           "sourceTitle": "제주교구 현장소식 08.20",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png"
+        },
+        {
+          "postId": "67347",
+          "region": "제주교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+          "sourceTitle": "제주교구 현장소식 08.13",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5c2e24e6-e5be-4069-98a2-41d5eb9471bc.png"
         }
       ]
     },
@@ -7976,7 +8112,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
-      "aliases": [],
+      "aliases": [
+        "67347-ae964b46c2f7"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -7987,6 +8125,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67377",
           "sourceTitle": "제주교구 현장소식 08.20",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png"
+        },
+        {
+          "postId": "67347",
+          "region": "제주교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+          "sourceTitle": "제주교구 현장소식 08.13",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5c2e24e6-e5be-4069-98a2-41d5eb9471bc.png"
         }
       ]
     },
@@ -8233,7 +8378,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png",
-      "aliases": [],
+      "aliases": [
+        "67347-9830ba635902"
+      ],
       "regions": [
         "제주교구"
       ],
@@ -8244,6 +8391,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67377",
           "sourceTitle": "제주교구 현장소식 08.20",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edbf4fe2-dad4-4193-91cd-6103ec01ca18.png"
+        },
+        {
+          "postId": "67347",
+          "region": "제주교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67347",
+          "sourceTitle": "제주교구 현장소식 08.13",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/5c2e24e6-e5be-4069-98a2-41d5eb9471bc.png"
         }
       ]
     },
