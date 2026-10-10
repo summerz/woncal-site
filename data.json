@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-09T05:53:27.284336+00:00",
-  "sampleSize": 112,
+  "generatedAt": "2026-10-10T05:46:15.067664+00:00",
+  "sampleSize": 113,
   "posts": [
+    {
+      "id": "67545",
+      "title": "강원교구 알림(111.10.09)",
+      "region": "강원교구",
+      "publishedAt": "2026-10-09T06:43:16.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+      "imageCount": 10,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 4
+    },
     {
       "id": "67543",
       "title": "제주교구 현장소식 10.08",
@@ -1238,7 +1249,7 @@
   "events": [
     {
       "id": "67448-45366ca1e093",
-      "postId": "67525",
+      "postId": "67545",
       "title": "심심풀이",
       "start": "2026-12-03",
       "dateSpans": [
@@ -1251,12 +1262,12 @@
       ],
       "venue": "강원중학교",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67525",
-      "sourceTitle": "강원교구 알림(111.10.2)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+      "sourceTitle": "강원교구 알림(111.10.09)",
       "evidence": "날짜: 12.3(목), 12.11(금)",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/fedeec30-870b-4266-a693-d007a7894d3a.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png",
       "aliases": [
         "67322-d395b96475a4",
         "67352-755003ddf302",
@@ -1264,12 +1275,20 @@
         "67411-c05220e72190",
         "67431-42610f6319d5",
         "67469-800dab66df59",
-        "67525-93da5f0165a9"
+        "67525-93da5f0165a9",
+        "67545-6f0b0efb085a"
       ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67545",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+          "sourceTitle": "강원교구 알림(111.10.09)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png"
+        },
         {
           "postId": "67525",
           "region": "강원교구",
@@ -1334,7 +1353,7 @@
     },
     {
       "id": "67448-f052b8dd7760",
-      "postId": "67525",
+      "postId": "67545",
       "title": "심심풀이",
       "start": "2026-11-25",
       "dateSpans": [
@@ -1344,12 +1363,12 @@
       ],
       "venue": "봄내중학교",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67525",
-      "sourceTitle": "강원교구 알림(111.10.2)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+      "sourceTitle": "강원교구 알림(111.10.09)",
       "evidence": "날짜: 11.25(수)",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/fedeec30-870b-4266-a693-d007a7894d3a.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png",
       "aliases": [
         "67322-b39a1ccde02c",
         "67352-4e31dedfc6a6",
@@ -1357,12 +1376,20 @@
         "67411-2673476e06dc",
         "67431-52e62ff0a6cd",
         "67469-8f4ba8da7249",
-        "67525-dfedfa063d4d"
+        "67525-dfedfa063d4d",
+        "67545-9be7b4280f9e"
       ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67545",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+          "sourceTitle": "강원교구 알림(111.10.09)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png"
+        },
         {
           "postId": "67525",
           "region": "강원교구",
@@ -3573,6 +3600,38 @@
       ]
     },
     {
+      "id": "67545-ada1f34c761e",
+      "postId": "67545",
+      "title": "\"모두 함께 즐기는 웃음 가득한 하루!\"",
+      "start": "2026-10-18T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-10-18T10:00:00+09:00"
+        }
+      ],
+      "venue": "춘천교당•의암공원",
+      "region": "강원교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+      "sourceTitle": "강원교구 알림(111.10.09)",
+      "evidence": "111.10.18(일) 오전 10시~오후3시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/42e6b56d-923e-4096-8ccc-66b651f0c86e.png",
+      "aliases": [],
+      "regions": [
+        "강원교구"
+      ],
+      "sources": [
+        {
+          "postId": "67545",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+          "sourceTitle": "강원교구 알림(111.10.09)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/42e6b56d-923e-4096-8ccc-66b651f0c86e.png"
+        }
+      ]
+    },
+    {
       "id": "67425-3f45d9966709",
       "postId": "67538",
       "title": "보은바자회",
@@ -4819,7 +4878,7 @@
     },
     {
       "id": "67525-caec69a8963f",
-      "postId": "67525",
+      "postId": "67545",
       "title": "나의 공부",
       "start": "2026-10-11",
       "dateSpans": [
@@ -4829,17 +4888,26 @@
       ],
       "venue": "강원교구청 3층 대각전",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67525",
-      "sourceTitle": "강원교구 알림(111.10.2)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+      "sourceTitle": "강원교구 알림(111.10.09)",
       "evidence": "일시:원기 111년 10월 11일(일)",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/cc9b8985-6650-47e5-ab61-681858b94e7c.png",
-      "aliases": [],
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c0850d0b-e795-4870-8827-1c5d963b52e5.png",
+      "aliases": [
+        "67545-c7f804055789"
+      ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67545",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67545",
+          "sourceTitle": "강원교구 알림(111.10.09)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/c0850d0b-e795-4870-8827-1c5d963b52e5.png"
+        },
         {
           "postId": "67525",
           "region": "강원교구",
