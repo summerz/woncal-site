@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T05:48:54.184175+00:00",
-  "sampleSize": 118,
+  "generatedAt": "2026-10-12T05:56:11.396121+00:00",
+  "sampleSize": 123,
   "posts": [
     {
       "id": "67545",
@@ -1299,6 +1299,61 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 1
+    },
+    {
+      "id": "67311",
+      "title": "광주전남교구 알림(111.08.06)",
+      "region": "광주전남교구",
+      "publishedAt": "2026-08-06T00:24:08.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67311",
+      "imageCount": 19,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
+    {
+      "id": "67304",
+      "title": "영광교구 현장소식 7월 하반기",
+      "region": "영광교구",
+      "publishedAt": "2026-07-31T12:36:06.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67304",
+      "imageCount": 1,
+      "errors": [],
+      "status": "no_schedule",
+      "eventCount": 0
+    },
+    {
+      "id": "67300",
+      "title": "강원교구 알림 (111.7.31)",
+      "region": "강원교구",
+      "publishedAt": "2026-07-31T01:40:55.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67300",
+      "imageCount": 7,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67298",
+      "title": "충북교구 알림(111.07.31)",
+      "region": "충북교구",
+      "publishedAt": "2026-07-31T01:20:31.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67298",
+      "imageCount": 7,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67297",
+      "title": "서울교구 알림(7월 30일)",
+      "region": "서울교구",
+      "publishedAt": "2026-07-30T10:11:25.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67297",
+      "imageCount": 6,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
     }
   ],
   "events": [
@@ -1324,6 +1379,7 @@
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png",
       "aliases": [
+        "67300-f90cbfa46832",
         "67322-d395b96475a4",
         "67352-755003ddf302",
         "67374-6d7cb0e99b13",
@@ -1399,6 +1455,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67322",
           "sourceTitle": "강원교구 알림 (111.8.6)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9e23309a-d7d6-4806-a6c7-d6626bbe3d37.png"
+        },
+        {
+          "postId": "67300",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67300",
+          "sourceTitle": "강원교구 알림 (111.7.31)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a646b14a-d261-423c-b2d3-d13f6608b08a.png"
         }
       ],
       "details": [
@@ -1425,6 +1488,7 @@
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/38a33fc8-2481-484f-926f-536ec766a538.png",
       "aliases": [
+        "67300-aff01d6146c7",
         "67322-b39a1ccde02c",
         "67352-4e31dedfc6a6",
         "67374-d6296f6f4812",
@@ -1500,6 +1564,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67322",
           "sourceTitle": "강원교구 알림 (111.8.6)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/9e23309a-d7d6-4806-a6c7-d6626bbe3d37.png"
+        },
+        {
+          "postId": "67300",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67300",
+          "sourceTitle": "강원교구 알림 (111.7.31)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a646b14a-d261-423c-b2d3-d13f6608b08a.png"
         }
       ],
       "details": [
@@ -11933,6 +12004,38 @@
       ]
     },
     {
+      "id": "67298-afdba912d4ee",
+      "postId": "67298",
+      "title": "4. 임시 상임위원회 개최 안내",
+      "start": "2026-08-23T14:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-23T14:30:00+09:00"
+        }
+      ],
+      "venue": "교구청 소법당",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67298",
+      "sourceTitle": "충북교구 알림(111.07.31)",
+      "evidence": "일시: 8월 23일(일) 오후 2시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/20e42385-5a83-4852-90d0-30cb4a473090.jpg",
+      "aliases": [],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67298",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67298",
+          "sourceTitle": "충북교구 알림(111.07.31)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/20e42385-5a83-4852-90d0-30cb4a473090.jpg"
+        }
+      ]
+    },
+    {
       "id": "67382-348c56cfba2b",
       "postId": "67382",
       "title": "[전주지구] 상시훈련실천 강연대회",
@@ -12561,6 +12664,71 @@
       ]
     },
     {
+      "id": "67297-afb1b271ec75",
+      "postId": "67297",
+      "title": "8월 청교협 안내",
+      "start": "2026-08-11T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-11T10:30:00+09:00"
+        }
+      ],
+      "venue": "퐁피두센터한화 로비",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67297",
+      "sourceTitle": "서울교구 알림(7월 30일)",
+      "evidence": "D 일시: 8월 11일(화) 10시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7a017b7d-656d-47f2-8310-fa97611e4c31.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67297",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67297",
+          "sourceTitle": "서울교구 알림(7월 30일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/7a017b7d-656d-47f2-8310-fa97611e4c31.png"
+        }
+      ]
+    },
+    {
+      "id": "67298-a35e66bcd932",
+      "postId": "67298",
+      "title": "충북교구는 다른 교구 교무들과 함께 [3차, 4차] 2개 분반으로 진행",
+      "start": "2026-08-11T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-11T10:00:00+09:00",
+          "end": "2026-08-12"
+        }
+      ],
+      "venue": "충북교구청",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67298",
+      "sourceTitle": "충북교구 알림(111.07.31)",
+      "evidence": "일시 : 8월 11일(화)~12일(수) 오전 10시~오후 5시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f1286e3b-d1c2-4ed9-9b54-f836cad27b90.jpg",
+      "aliases": [],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67298",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67298",
+          "sourceTitle": "충북교구 알림(111.07.31)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f1286e3b-d1c2-4ed9-9b54-f836cad27b90.jpg"
+        }
+      ]
+    },
+    {
       "id": "67316-7f167a3d5712",
       "postId": "67316",
       "title": "교구 상임위원회",
@@ -12653,6 +12821,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67312",
           "sourceTitle": "대전충남교구 공지 111.08.06",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c9447a55-a588-4709-8953-d89707a5befc.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67311-6f6211f249ca",
+      "postId": "67311",
+      "title": "[순천] 7,8각단 탈핵순례기도",
+      "start": "2026-08-10T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-10T10:00:00+09:00"
+        }
+      ],
+      "venue": "영광군청 및 한빛발전소",
+      "region": "광주전남교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67311",
+      "sourceTitle": "광주전남교구 알림(111.08.06)",
+      "evidence": "일시 : 8월 10일(월) 오전 10시반",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4e5f6a48-3154-43f6-843c-820e5f86bf96.jpg",
+      "aliases": [],
+      "regions": [
+        "광주전남교구"
+      ],
+      "sources": [
+        {
+          "postId": "67311",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67311",
+          "sourceTitle": "광주전남교구 알림(111.08.06)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4e5f6a48-3154-43f6-843c-820e5f86bf96.jpg"
         }
       ]
     },
@@ -12949,7 +13149,9 @@
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/099f952a-9ce1-4166-97a0-cffd49649be7.png",
-      "aliases": [],
+      "aliases": [
+        "67297-ae49974fbac9"
+      ],
       "regions": [
         "서울교구"
       ],
@@ -12960,6 +13162,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67325",
           "sourceTitle": "서울교구 알림(8월 6일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/099f952a-9ce1-4166-97a0-cffd49649be7.png"
+        },
+        {
+          "postId": "67297",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67297",
+          "sourceTitle": "서울교구 알림(7월 30일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/d4706b2f-726b-4a37-baf1-d77138e188bb.png"
         }
       ]
     },
