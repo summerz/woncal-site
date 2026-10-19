@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T05:46:18.651783+00:00",
-  "sampleSize": 149,
+  "generatedAt": "2026-10-19T05:49:26.177235+00:00",
+  "sampleSize": 154,
   "posts": [
     {
       "id": "67576",
@@ -1640,6 +1640,61 @@
       "errors": [],
       "status": "schedule_found",
       "eventCount": 8
+    },
+    {
+      "id": "67265",
+      "title": "중앙교구 알림(07.23)",
+      "region": "중앙교구",
+      "publishedAt": "2026-07-23T01:53:18.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67265",
+      "imageCount": 5,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
+    },
+    {
+      "id": "67264",
+      "title": "경남교구 공지 111.7.23.",
+      "region": "경남교구",
+      "publishedAt": "2026-07-23T00:48:29.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67264",
+      "imageCount": 1,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
+    {
+      "id": "67263",
+      "title": "광주전남교구 알림(111.07.23)",
+      "region": "광주전남교구",
+      "publishedAt": "2026-07-22T22:12:33.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+      "imageCount": 21,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 3
+    },
+    {
+      "id": "67253",
+      "title": "강원교구 알림 (111.7.17)",
+      "region": "강원교구",
+      "publishedAt": "2026-07-17T07:09:06.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67253",
+      "imageCount": 4,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67252",
+      "title": "충북교구 알림(07/17)",
+      "region": "충북교구",
+      "publishedAt": "2026-07-17T03:58:06.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+      "imageCount": 8,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 3
     }
   ],
   "events": [
@@ -1665,6 +1720,7 @@
       "confidence": "low",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0aacc2c0-45a9-4161-adcf-a8f41eea9fec.png",
       "aliases": [
+        "67253-ccfc76b954ab",
         "67279-c1160ca1e621",
         "67300-f90cbfa46832",
         "67322-d395b96475a4",
@@ -1764,6 +1820,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67279",
           "sourceTitle": "강원교구 알림 (111.7.24)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/2032d509-4fa4-478e-b541-43f4d315561f.png"
+        },
+        {
+          "postId": "67253",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67253",
+          "sourceTitle": "강원교구 알림 (111.7.17)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/bd532434-f8ba-4441-bbe0-02796c1ddeb2.png"
         }
       ],
       "details": [
@@ -1894,6 +1957,38 @@
       "details": [
         "대상: 3학년 각 6학급",
         "내용: 1단계 Basic과정"
+      ]
+    },
+    {
+      "id": "67253-a4c117b17ae3",
+      "postId": "67253",
+      "title": "2. 봉내중학교",
+      "start": "2026-11-25",
+      "dateSpans": [
+        {
+          "start": "2026-11-25"
+        }
+      ],
+      "venue": "",
+      "region": "강원교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67253",
+      "sourceTitle": "강원교구 알림 (111.7.17)",
+      "evidence": "날짜: 11.25(수)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/bd532434-f8ba-4441-bbe0-02796c1ddeb2.png",
+      "aliases": [],
+      "regions": [
+        "강원교구"
+      ],
+      "sources": [
+        {
+          "postId": "67253",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67253",
+          "sourceTitle": "강원교구 알림 (111.7.17)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/bd532434-f8ba-4441-bbe0-02796c1ddeb2.png"
+        }
       ]
     },
     {
@@ -6403,6 +6498,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE9999/download/da6a773b-3660-4404-8eac-ae1cc5b8428e.jpg",
       "aliases": [
+        "67264-7e6b1fe63514",
         "67291-f5c713b5cc33",
         "67314-32d6fe84f176",
         "67336-8850235f2113",
@@ -6502,6 +6598,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67291",
           "sourceTitle": "경남교구 공지 111.7.30.",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/44056834-57b7-4d17-b71b-47e65f5d97ca.jpg"
+        },
+        {
+          "postId": "67264",
+          "region": "경남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67264",
+          "sourceTitle": "경남교구 공지 111.7.23.",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/21c4b8f1-52a8-4a12-8381-61dabbddbcbc.jpg"
         }
       ]
     },
@@ -13359,6 +13462,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/20e42385-5a83-4852-90d0-30cb4a473090.jpg",
       "aliases": [
+        "67252-e4be321e0205",
         "67277-1893e8daedee"
       ],
       "regions": [
@@ -13378,6 +13482,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67277",
           "sourceTitle": "충북교구 알림(07/24)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/38de631f-1ebe-403d-a04a-7d53630033f9.jpg"
+        },
+        {
+          "postId": "67252",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+          "sourceTitle": "충북교구 알림(07/17)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/3c88ff80-ff4d-4570-bf4a-2b010dadf571.jpg"
         }
       ]
     },
@@ -14151,6 +14262,39 @@
       ]
     },
     {
+      "id": "67252-e2c8e9321336",
+      "postId": "67252",
+      "title": "〈다시살림> 신규 강사 양성교육",
+      "start": "2026-08-11",
+      "dateSpans": [
+        {
+          "start": "2026-08-11",
+          "end": "2026-08-12"
+        }
+      ],
+      "venue": "충북교구청",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+      "sourceTitle": "충북교구 알림(07/17)",
+      "evidence": "일시: 원기111년 8월 11(화)~12일(수)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4c8d740f-18fb-4373-a28c-2320a72801ee.jpg",
+      "aliases": [],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67252",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+          "sourceTitle": "충북교구 알림(07/17)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4c8d740f-18fb-4373-a28c-2320a72801ee.jpg"
+        }
+      ]
+    },
+    {
       "id": "67316-7f167a3d5712",
       "postId": "67316",
       "title": "교구 상임위원회",
@@ -14265,6 +14409,7 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/4e5f6a48-3154-43f6-843c-820e5f86bf96.jpg",
       "aliases": [
+        "67263-95ff45833de0",
         "67290-a9954cbff543"
       ],
       "regions": [
@@ -14284,6 +14429,13 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67290",
           "sourceTitle": "광주전남교구 알림(111.07.30)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e784324e-2d80-4b30-98db-3fabc6fb5f55.jpg"
+        },
+        {
+          "postId": "67263",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+          "sourceTitle": "광주전남교구 알림(111.07.23)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f1789c7c-3c38-40d0-89a7-a5f733749686.jpg"
         }
       ]
     },
@@ -15070,6 +15222,72 @@
       ]
     },
     {
+      "id": "67263-7f679ba3b384",
+      "postId": "67263",
+      "title": "청소년 여름 훈련 안내",
+      "start": "2026-08-01T13:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-08-01T13:00:00+09:00",
+          "end": "2026-08-02"
+        }
+      ],
+      "venue": "여수교당[여수 진남로 46)",
+      "region": "광주전남교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+      "sourceTitle": "광주전남교구 알림(111.07.23)",
+      "evidence": "일시 : 8월 1일(토)~2일(일) 13시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a80bc1ab-9c19-49d4-97d9-f2186d37a5ee.jpg",
+      "aliases": [],
+      "regions": [
+        "광주전남교구"
+      ],
+      "sources": [
+        {
+          "postId": "67263",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+          "sourceTitle": "광주전남교구 알림(111.07.23)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a80bc1ab-9c19-49d4-97d9-f2186d37a5ee.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67263-bd650de99765",
+      "postId": "67263",
+      "title": "훈련 안내",
+      "start": "2026-08-01",
+      "dateSpans": [
+        {
+          "start": "2026-08-01",
+          "end": "2026-08-02"
+        }
+      ],
+      "venue": "원불교 여수교당(여수시 진남로 46, 여수교당)",
+      "region": "광주전남교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+      "sourceTitle": "광주전남교구 알림(111.07.23)",
+      "evidence": "일시 : 원기 111년 8월 1일(토) ~ 2일(일)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a80bc1ab-9c19-49d4-97d9-f2186d37a5ee.jpg",
+      "aliases": [],
+      "regions": [
+        "광주전남교구"
+      ],
+      "sources": [
+        {
+          "postId": "67263",
+          "region": "광주전남교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67263",
+          "sourceTitle": "광주전남교구 알림(111.07.23)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a80bc1ab-9c19-49d4-97d9-f2186d37a5ee.jpg"
+        }
+      ]
+    },
+    {
       "id": "67281-45dec3bf32d8",
       "postId": "67281",
       "title": "참회기도(05:00~05:30 ZOOM)",
@@ -15357,6 +15575,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67279",
           "sourceTitle": "강원교구 알림 (111.7.24)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/299e7491-1f81-4b0a-901c-6b9ef5825d49.png"
+        }
+      ]
+    },
+    {
+      "id": "67252-e887901df289",
+      "postId": "67252",
+      "title": "2. 교구 어린이훈련 일정 안내",
+      "start": "2026-07-25T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-07-25T10:00:00+09:00"
+        }
+      ],
+      "venue": "",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+      "sourceTitle": "충북교구 알림(07/17)",
+      "evidence": "일시 : 7월 25(토) 오전 10시~ 오후 6시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/dcc803bd-3497-428f-87f5-aded4c8d8cd1.jpg",
+      "aliases": [],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67252",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67252",
+          "sourceTitle": "충북교구 알림(07/17)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/dcc803bd-3497-428f-87f5-aded4c8d8cd1.jpg"
         }
       ]
     },
