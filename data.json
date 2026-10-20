@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-19T05:49:26.177235+00:00",
-  "sampleSize": 154,
+  "generatedAt": "2026-10-20T05:45:28.267495+00:00",
+  "sampleSize": 155,
   "posts": [
+    {
+      "id": "67582",
+      "title": "군종교구 주간알림 111-25(5사단 열쇠교당, 중앙경찰학교 정은교당)",
+      "region": "군종교구",
+      "publishedAt": "2026-10-19T06:20:24.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67582",
+      "imageCount": 12,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
     {
       "id": "67576",
       "title": "경인교구 교구알림(10.16)",
@@ -4450,6 +4461,38 @@
       ]
     },
     {
+      "id": "67582-d2e4a92806e3",
+      "postId": "67582",
+      "title": "교도장병입소맞이(12:00~13:00 군종교구",
+      "start": "2026-10-19T12:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-10-19T12:00:00+09:00"
+        }
+      ],
+      "venue": "",
+      "region": "군종교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67582",
+      "sourceTitle": "군종교구 주간알림 111-25(5사단 열쇠교당, 중앙경찰학교 정은교당)",
+      "evidence": "10월 19일 - 교도장병입소맞이(12:00~13:00 군종교구",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/731d3686-a87e-49fc-991a-bfd8d1df8275.png",
+      "aliases": [],
+      "regions": [
+        "군종교구"
+      ],
+      "sources": [
+        {
+          "postId": "67582",
+          "region": "군종교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67582",
+          "sourceTitle": "군종교구 주간알림 111-25(5사단 열쇠교당, 중앙경찰학교 정은교당)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/731d3686-a87e-49fc-991a-bfd8d1df8275.png"
+        }
+      ]
+    },
+    {
       "id": "67484-c073c77190da",
       "postId": "67557",
       "title": "50주년 기념 행사 안내",
@@ -4575,6 +4618,38 @@
           "postId": "67542",
           "sourceTitle": "경인교구 교구알림(10.08)",
           "imageUrl": "https://won.or.kr/api/files/FILE9999/download/a231d82f-9d86-47f8-a713-c618b809e95e.png"
+        }
+      ]
+    },
+    {
+      "id": "67582-6d18fbfc7922",
+      "postId": "67582",
+      "title": "쉼공작소 강사양성과정",
+      "start": "2026-10-19",
+      "dateSpans": [
+        {
+          "start": "2026-10-19"
+        }
+      ],
+      "venue": "",
+      "region": "군종교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67582",
+      "sourceTitle": "군종교구 주간알림 111-25(5사단 열쇠교당, 중앙경찰학교 정은교당)",
+      "evidence": "10월 19일 - 쉼공작소 강사양성과정",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/731d3686-a87e-49fc-991a-bfd8d1df8275.png",
+      "aliases": [],
+      "regions": [
+        "군종교구"
+      ],
+      "sources": [
+        {
+          "postId": "67582",
+          "region": "군종교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67582",
+          "sourceTitle": "군종교구 주간알림 111-25(5사단 열쇠교당, 중앙경찰학교 정은교당)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/731d3686-a87e-49fc-991a-bfd8d1df8275.png"
         }
       ]
     },
