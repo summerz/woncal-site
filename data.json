@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-01T05:38:05.962981+00:00",
-  "sampleSize": 203,
+  "generatedAt": "2026-11-02T05:40:10.966611+00:00",
+  "sampleSize": 204,
   "posts": [
+    {
+      "id": "67642",
+      "title": "군종교구 주간알림 111-26(육군본부 계룡대교당, 3사단 백골교당)",
+      "region": "군종교구",
+      "publishedAt": "2026-11-02T01:14:15.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67642",
+      "imageCount": 15,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
     {
       "id": "67639",
       "title": "영광교구 현장소식 10월",
@@ -4866,6 +4877,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67630",
           "sourceTitle": "대구경북교구 111.10.29. 교구알림",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/55b8e87d-5e09-456f-b085-56c6ce4abb43.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67642-5918789ab93c",
+      "postId": "67642",
+      "title": "교구주간회의(10:00~10:30 ZOOM)",
+      "start": "2026-11-06T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-11-06T10:00:00+09:00"
+        }
+      ],
+      "venue": "",
+      "region": "군종교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67642",
+      "sourceTitle": "군종교구 주간알림 111-26(육군본부 계룡대교당, 3사단 백골교당)",
+      "evidence": "11월 6일 - 교구주간회의(10:00~10:30 ZOOM)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e9125a7-48d6-46da-a097-2f67e57f7655.png",
+      "aliases": [],
+      "regions": [
+        "군종교구"
+      ],
+      "sources": [
+        {
+          "postId": "67642",
+          "region": "군종교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67642",
+          "sourceTitle": "군종교구 주간알림 111-26(육군본부 계룡대교당, 3사단 백골교당)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e9125a7-48d6-46da-a097-2f67e57f7655.png"
         }
       ]
     },
