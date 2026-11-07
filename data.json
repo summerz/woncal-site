@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-11-06T05:42:25.135450+00:00",
-  "sampleSize": 221,
+  "generatedAt": "2026-11-07T05:41:10.326145+00:00",
+  "sampleSize": 225,
   "posts": [
+    {
+      "id": "67663",
+      "title": "강원교구 알림(111.11.06)",
+      "region": "강원교구",
+      "publishedAt": "2026-11-06T05:11:00.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67663",
+      "imageCount": 11,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
+    {
+      "id": "67662",
+      "title": "충북교구 알림(11/07)",
+      "region": "충북교구",
+      "publishedAt": "2026-11-06T02:07:51.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+      "imageCount": 8,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 4
+    },
+    {
+      "id": "67661",
+      "title": "경인교구 교구알림(11.06)",
+      "region": "경기인천교구",
+      "publishedAt": "2026-11-06T02:06:51.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67661",
+      "imageCount": 11,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
+    {
+      "id": "67659",
+      "title": "서울교구 알림(11월 5일)",
+      "region": "서울교구",
+      "publishedAt": "2026-11-05T13:35:58.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "imageCount": 7,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 11
+    },
     {
       "id": "67658",
       "title": "제주교구 현장소식 11.05",
@@ -2632,7 +2676,7 @@
     },
     {
       "id": "67448-45366ca1e093",
-      "postId": "67638",
+      "postId": "67663",
       "title": "심심풀이",
       "start": "2026-12-03",
       "dateSpans": [
@@ -2645,12 +2689,12 @@
       ],
       "venue": "강원중학교",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67638",
-      "sourceTitle": "강원교구 알림(111.10.30)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67663",
+      "sourceTitle": "강원교구 알림(111.11.06)",
       "evidence": "날짜: 12.3(목), 12.11(금)",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d37faa42-fe0b-4e98-9c8b-48a3312ef1bf.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/5468bf60-cdcd-4d94-9ff5-633767366671.png",
       "aliases": [
         "67176-53f3f6a6a2be",
         "67202-db9f8e7f58e2",
@@ -2667,12 +2711,20 @@
         "67545-6f0b0efb085a",
         "67573-0c36eb853336",
         "67606-610ebf102112",
-        "67638-b077e5fbde4d"
+        "67638-b077e5fbde4d",
+        "67663-6892366284cd"
       ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67663",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67663",
+          "sourceTitle": "강원교구 알림(111.11.06)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/5468bf60-cdcd-4d94-9ff5-633767366671.png"
+        },
         {
           "postId": "67638",
           "region": "강원교구",
@@ -2799,6 +2851,48 @@
       ]
     },
     {
+      "id": "67632-3cbc072d892d",
+      "postId": "67659",
+      "title": "여성회 전국훈련",
+      "start": "2026-11-27",
+      "dateSpans": [
+        {
+          "start": "2026-11-27",
+          "end": "2026-11-28"
+        }
+      ],
+      "venue": "중도훈련원",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
+      "evidence": "D 일시: 11월 27-28일",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png",
+      "aliases": [
+        "67659-76c41d7f5903"
+      ],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png"
+        },
+        {
+          "postId": "67632",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
+          "sourceTitle": "서울교구 알림(10월 29일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png"
+        }
+      ]
+    },
+    {
       "id": "67629-23af4015e031",
       "postId": "67653",
       "title": "전국여성회훈련",
@@ -2858,41 +2952,8 @@
       ]
     },
     {
-      "id": "67632-3cbc072d892d",
-      "postId": "67632",
-      "title": "여성회 전국훈련",
-      "start": "2026-11-27",
-      "dateSpans": [
-        {
-          "start": "2026-11-27",
-          "end": "2026-11-28"
-        }
-      ],
-      "venue": "중도훈련원",
-      "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
-      "evidence": "D 일시: 11월 27-28일",
-      "reviewStatus": "auto_unverified",
-      "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png",
-      "aliases": [],
-      "regions": [
-        "서울교구"
-      ],
-      "sources": [
-        {
-          "postId": "67632",
-          "region": "서울교구",
-          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-          "sourceTitle": "서울교구 알림(10월 29일)",
-          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png"
-        }
-      ]
-    },
-    {
       "id": "67448-f052b8dd7760",
-      "postId": "67638",
+      "postId": "67663",
       "title": "심심풀이",
       "start": "2026-11-25",
       "dateSpans": [
@@ -2902,12 +2963,12 @@
       ],
       "venue": "봄내중학교",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67638",
-      "sourceTitle": "강원교구 알림(111.10.30)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67663",
+      "sourceTitle": "강원교구 알림(111.11.06)",
       "evidence": "날짜: 11.25(수)",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d37faa42-fe0b-4e98-9c8b-48a3312ef1bf.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/5468bf60-cdcd-4d94-9ff5-633767366671.png",
       "aliases": [
         "67176-ab2909338f1c",
         "67202-4f720717b6fb",
@@ -2923,12 +2984,20 @@
         "67545-9be7b4280f9e",
         "67573-2e6cd68b8c0e",
         "67606-d3f1afb556e5",
-        "67638-f8ba1b1d5716"
+        "67638-f8ba1b1d5716",
+        "67663-815e43c74f5a"
       ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67663",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67663",
+          "sourceTitle": "강원교구 알림(111.11.06)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/5468bf60-cdcd-4d94-9ff5-633767366671.png"
+        },
         {
           "postId": "67638",
           "region": "강원교구",
@@ -3241,7 +3310,7 @@
     },
     {
       "id": "67607-7d0ed2dba91f",
-      "postId": "67636",
+      "postId": "67662",
       "title": "5. 교구 상임위원회",
       "start": "2026-11-22T14:30:00+09:00",
       "dateSpans": [
@@ -3251,19 +3320,27 @@
       ],
       "venue": "교구청 소법당",
       "region": "충북교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67636",
-      "sourceTitle": "충북교구 알림(111.10.30)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+      "sourceTitle": "충북교구 알림(11/07)",
       "evidence": "일시 : 11월 22일(일) 오후 2시 30분",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c4201426-82c5-4f13-b5c4-177d948966e4.jpg",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/32c4fd87-8cb5-4f33-a386-d2f797ee1726.jpg",
       "aliases": [
-        "67636-5eb23778b311"
+        "67636-5eb23778b311",
+        "67662-49bc8c5f20fa"
       ],
       "regions": [
         "충북교구"
       ],
       "sources": [
+        {
+          "postId": "67662",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+          "sourceTitle": "충북교구 알림(11/07)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/32c4fd87-8cb5-4f33-a386-d2f797ee1726.jpg"
+        },
         {
           "postId": "67636",
           "region": "충북교구",
@@ -3277,6 +3354,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67607",
           "sourceTitle": "충북교구 알림(10/23)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a3b73d45-ab0b-446c-98f1-aaa8f0f6d7aa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "67659-84adf13c6a9b",
+      "postId": "67659",
+      "title": "봉공회 자원봉사자 축제 개최",
+      "start": "2026-11-22T14:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-11-22T14:00:00+09:00"
+        }
+      ],
+      "venue": "서울교구청 B1 한강교당 멀티룸",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
+      "evidence": "D 일시: 원기111년 11월 22일(일) 오후 2시",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png"
         }
       ]
     },
@@ -3801,6 +3910,47 @@
       ]
     },
     {
+      "id": "67607-46e4a6290689",
+      "postId": "67662",
+      "title": "4. 제4차 출가교역자협의회",
+      "start": "2026-11-17T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-11-17T10:30:00+09:00"
+        }
+      ],
+      "venue": "증평교당",
+      "region": "충북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+      "sourceTitle": "충북교구 알림(11/07)",
+      "evidence": "일시 : 11월 17일(화) 오전 10시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ce03a459-3890-41be-8c2e-d4bb4f4ed245.jpg",
+      "aliases": [
+        "67662-e029bc768730"
+      ],
+      "regions": [
+        "충북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67662",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+          "sourceTitle": "충북교구 알림(11/07)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ce03a459-3890-41be-8c2e-d4bb4f4ed245.jpg"
+        },
+        {
+          "postId": "67607",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67607",
+          "sourceTitle": "충북교구 알림(10/23)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a3b73d45-ab0b-446c-98f1-aaa8f0f6d7aa.jpg"
+        }
+      ]
+    },
+    {
       "id": "67636-424170e445aa",
       "postId": "67636",
       "title": "4. 제4차 출가교역자협의회",
@@ -3833,40 +3983,8 @@
       ]
     },
     {
-      "id": "67607-46e4a6290689",
-      "postId": "67607",
-      "title": "5. 제4차 출가교역자협의회",
-      "start": "2026-11-17T10:30:00+09:00",
-      "dateSpans": [
-        {
-          "start": "2026-11-17T10:30:00+09:00"
-        }
-      ],
-      "venue": "증평교당",
-      "region": "충북교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67607",
-      "sourceTitle": "충북교구 알림(10/23)",
-      "evidence": "일시 : 11월 17일(화) 오전 10시 30분",
-      "reviewStatus": "auto_unverified",
-      "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a3b73d45-ab0b-446c-98f1-aaa8f0f6d7aa.jpg",
-      "aliases": [],
-      "regions": [
-        "충북교구"
-      ],
-      "sources": [
-        {
-          "postId": "67607",
-          "region": "충북교구",
-          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67607",
-          "sourceTitle": "충북교구 알림(10/23)",
-          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a3b73d45-ab0b-446c-98f1-aaa8f0f6d7aa.jpg"
-        }
-      ]
-    },
-    {
       "id": "67632-63b299be75e3",
-      "postId": "67632",
+      "postId": "67659",
       "title": "북향민과 함께 장보기",
       "start": "2026-11-17",
       "dateSpans": [
@@ -3876,17 +3994,26 @@
       ],
       "venue": "",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "D 일시: 11월 17일",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png",
-      "aliases": [],
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png",
+      "aliases": [
+        "67659-625bbb6c83d8"
+      ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -3898,7 +4025,7 @@
     },
     {
       "id": "67632-581da330d460",
-      "postId": "67632",
+      "postId": "67659",
       "title": "기도법회",
       "start": "2026-11-16T10:30:00+09:00",
       "dateSpans": [
@@ -3908,17 +4035,26 @@
       ],
       "venue": "",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "D 일시: 11월 16일 오전 10시 30분",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/e7eb3313-3e1c-4aec-8e93-bb2edcd83ad0.png",
-      "aliases": [],
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png",
+      "aliases": [
+        "67659-348ca445451c"
+      ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -3929,40 +4065,8 @@
       ]
     },
     {
-      "id": "67653-d6ed425d5c8c",
-      "postId": "67653",
-      "title": "교구 인사위원회",
-      "start": "2026-11-16",
-      "dateSpans": [
-        {
-          "start": "2026-11-16"
-        }
-      ],
-      "venue": "",
-      "region": "대구경북교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67653",
-      "sourceTitle": "대구경북교구 111.11.05. 교구알림",
-      "evidence": "11월 16일(월) : 교구 인사위원회",
-      "reviewStatus": "auto_unverified",
-      "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1a3d87d9-fc57-42bd-ac6b-058e1803029c.jpg",
-      "aliases": [],
-      "regions": [
-        "대구경북교구"
-      ],
-      "sources": [
-        {
-          "postId": "67653",
-          "region": "대구경북교구",
-          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67653",
-          "sourceTitle": "대구경북교구 111.11.05. 교구알림",
-          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1a3d87d9-fc57-42bd-ac6b-058e1803029c.jpg"
-        }
-      ]
-    },
-    {
       "id": "67519-29bf7a0ae4cf",
-      "postId": "67632",
+      "postId": "67659",
       "title": "교구법위사정위원회 일정",
       "start": "2026-11-16",
       "dateSpans": [
@@ -3973,22 +4077,30 @@
       ],
       "venue": "교구청 회의실2(B1)",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "1) 일시 : 원기 111년 11월 16일(월) ~ 17일(화)",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f51bb295-fb8d-43fc-9077-a5fe5a04f7d3.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c1577789-0ae7-4279-b050-c6d547b4123c.png",
       "aliases": [
         "67539-df97a10175b0",
         "67557-4f17bbc785d7",
         "67598-2ac1959829fa",
-        "67632-e2576257657e"
+        "67632-e2576257657e",
+        "67659-a3077bf75b7e"
       ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c1577789-0ae7-4279-b050-c6d547b4123c.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -4023,6 +4135,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67519",
           "sourceTitle": "서울교구 알림(10월 1일)",
           "imageUrl": "https://won.or.kr/api/files/FILE0002/download/edaf2873-4da6-42fe-9140-35a79bc67d31.png"
+        }
+      ]
+    },
+    {
+      "id": "67653-d6ed425d5c8c",
+      "postId": "67653",
+      "title": "교구 인사위원회",
+      "start": "2026-11-16",
+      "dateSpans": [
+        {
+          "start": "2026-11-16"
+        }
+      ],
+      "venue": "",
+      "region": "대구경북교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67653",
+      "sourceTitle": "대구경북교구 111.11.05. 교구알림",
+      "evidence": "11월 16일(월) : 교구 인사위원회",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1a3d87d9-fc57-42bd-ac6b-058e1803029c.jpg",
+      "aliases": [],
+      "regions": [
+        "대구경북교구"
+      ],
+      "sources": [
+        {
+          "postId": "67653",
+          "region": "대구경북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67653",
+          "sourceTitle": "대구경북교구 111.11.05. 교구알림",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/1a3d87d9-fc57-42bd-ac6b-058e1803029c.jpg"
         }
       ]
     },
@@ -4156,7 +4300,7 @@
     },
     {
       "id": "67440-72aa82e78803",
-      "postId": "67656",
+      "postId": "67659",
       "title": "전국원음합창제",
       "start": "2026-11-15T14:00:00+09:00",
       "dateSpans": [
@@ -4165,13 +4309,13 @@
         }
       ],
       "venue": "익산예술의전당 대공연장",
-      "region": "대전충남교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67656",
-      "sourceTitle": "대전충남교구 공지 111.11.05",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "2026.11.15.(일) 오후2시",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/42245ee1-3911-46d6-97c5-671598ae7f62.jpg",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a6fbb31c-5a35-4d65-a453-e92074894dfe.png",
       "aliases": [
         "67442-8751c9c99ea2",
         "67466-0eed84a50de2",
@@ -4199,19 +4343,35 @@
         "67653-c70fa0afdae3",
         "67654-efe6da91094d",
         "67655-b67b06d37d7e",
-        "67656-f8413e915c20"
+        "67656-f8413e915c20",
+        "67659-9b2020a3dcee",
+        "67661-2ec43543d0fa"
       ],
       "regions": [
+        "경기인천교구",
+        "서울교구",
         "대전충남교구",
         "전북교구",
         "중앙교구",
         "대구경북교구",
         "광주전남교구",
-        "부산울산교구",
-        "서울교구",
-        "경기인천교구"
+        "부산울산교구"
       ],
       "sources": [
+        {
+          "postId": "67661",
+          "region": "경기인천교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67661",
+          "sourceTitle": "경인교구 교구알림(11.06)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/652a1218-02c3-4b4e-8dbf-d66d95d59675.png"
+        },
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/a6fbb31c-5a35-4d65-a453-e92074894dfe.png"
+        },
         {
           "postId": "67656",
           "region": "대전충남교구",
@@ -4598,7 +4758,7 @@
     },
     {
       "id": "67598-b0ca3c0189f6",
-      "postId": "67632",
+      "postId": "67659",
       "title": "정항승급기도 안내",
       "start": "2026-11-14T10:30:00+09:00",
       "dateSpans": [
@@ -4608,19 +4768,27 @@
       ],
       "venue": "유튜브 오덕훈련원TV 채널",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "D 일시: 11월 14일(토) 오전 10시 30분",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0c119581-ec9b-482e-a542-911ad90d3d3c.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c1577789-0ae7-4279-b050-c6d547b4123c.png",
       "aliases": [
-        "67632-b9355ea29768"
+        "67632-b9355ea29768",
+        "67659-3d32d28a3c78"
       ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/c1577789-0ae7-4279-b050-c6d547b4123c.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -4945,6 +5113,38 @@
       ]
     },
     {
+      "id": "67659-9f8cf0d012e2",
+      "postId": "67659",
+      "title": "11월 월례회",
+      "start": "2026-11-12T10:30:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-11-12T10:30:00+09:00"
+        }
+      ],
+      "venue": "서울교구청 B1 한강교당 멀티룸",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
+      "evidence": "D 일시: 원기 111년 11월 12일(목) 오전 10시 30분",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png",
+      "aliases": [],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png"
+        }
+      ]
+    },
+    {
       "id": "67568-690292de8c21",
       "postId": "67593",
       "title": "교구법위사정",
@@ -5133,7 +5333,7 @@
     },
     {
       "id": "67632-8d7323844796",
-      "postId": "67632",
+      "postId": "67659",
       "title": "회장단 회의",
       "start": "2026-11-11",
       "dateSpans": [
@@ -5143,17 +5343,26 @@
       ],
       "venue": "소태산기념관 9층 2회의실",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "D 일시: 11월 11일",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png",
-      "aliases": [],
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png",
+      "aliases": [
+        "67659-80532bbfdf06"
+      ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -5223,12 +5432,20 @@
       "confidence": "medium",
       "imageUrl": "https://won.or.kr/api/files/FILE0002/download/d3efc797-fe6c-4128-8296-cf94bdb3e198.jpg",
       "aliases": [
-        "67636-c39bff480130"
+        "67636-c39bff480130",
+        "67662-f7c19345efb3"
       ],
       "regions": [
         "충북교구"
       ],
       "sources": [
+        {
+          "postId": "67662",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+          "sourceTitle": "충북교구 알림(11/07)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fbf74d35-f894-4311-be09-bce367602574.jpg"
+        },
         {
           "postId": "67636",
           "region": "충북교구",
@@ -5369,7 +5586,7 @@
     },
     {
       "id": "67607-3238615e89c2",
-      "postId": "67636",
+      "postId": "67662",
       "title": "3. 교구 교화기획위원회",
       "start": "2026-11-10T10:00:00+09:00",
       "dateSpans": [
@@ -5379,19 +5596,27 @@
       ],
       "venue": "교구사무국",
       "region": "충북교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67636",
-      "sourceTitle": "충북교구 알림(111.10.30)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+      "sourceTitle": "충북교구 알림(11/07)",
       "evidence": "일시 : 11월 10일(화) 오전 10시",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/da1a010d-6638-4bcf-9055-fad9ab53f87d.jpg",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ce03a459-3890-41be-8c2e-d4bb4f4ed245.jpg",
       "aliases": [
-        "67636-efea8bd2d95a"
+        "67636-efea8bd2d95a",
+        "67662-336b2e3346e0"
       ],
       "regions": [
         "충북교구"
       ],
       "sources": [
+        {
+          "postId": "67662",
+          "region": "충북교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67662",
+          "sourceTitle": "충북교구 알림(11/07)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/ce03a459-3890-41be-8c2e-d4bb4f4ed245.jpg"
+        },
         {
           "postId": "67636",
           "region": "충북교구",
@@ -5451,7 +5676,7 @@
     },
     {
       "id": "67632-d06a8971c1fb",
-      "postId": "67632",
+      "postId": "67659",
       "title": "11월 월례회",
       "start": "2026-11-09T10:30:00+09:00",
       "dateSpans": [
@@ -5461,17 +5686,26 @@
       ],
       "venue": "소태산기념관 종교동 B1 한강교당 멀티룸",
       "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
       "evidence": "D 일시: 11월 9일 오전 10시 30분",
       "reviewStatus": "auto_unverified",
       "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png",
-      "aliases": [],
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png",
+      "aliases": [
+        "67659-a773a9f8aeda"
+      ],
       "regions": [
         "서울교구"
       ],
       "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/f5195deb-c3cc-4e0b-8d7c-7ab731c00ebd.png"
+        },
         {
           "postId": "67632",
           "region": "서울교구",
@@ -5743,6 +5977,47 @@
       ]
     },
     {
+      "id": "67632-aa3c21ddc63a",
+      "postId": "67659",
+      "title": "종로지구 바자회",
+      "start": "2026-11-08",
+      "dateSpans": [
+        {
+          "start": "2026-11-08"
+        }
+      ],
+      "venue": "종로교당",
+      "region": "서울교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+      "sourceTitle": "서울교구 알림(11월 5일)",
+      "evidence": "D 일시: 11월 8일",
+      "reviewStatus": "auto_unverified",
+      "confidence": "medium",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png",
+      "aliases": [
+        "67659-3a9cfa9857f5"
+      ],
+      "regions": [
+        "서울교구"
+      ],
+      "sources": [
+        {
+          "postId": "67659",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67659",
+          "sourceTitle": "서울교구 알림(11월 5일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/0e4e31d8-addd-4274-ba7e-5ca9302c2791.png"
+        },
+        {
+          "postId": "67632",
+          "region": "서울교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
+          "sourceTitle": "서울교구 알림(10월 29일)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png"
+        }
+      ]
+    },
+    {
       "id": "67597-6fc4401cd8a1",
       "postId": "67654",
       "title": "군산지구 합동성지순례",
@@ -5788,38 +6063,6 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67597",
           "sourceTitle": "중앙교구 알림(10.22)",
           "imageUrl": null
-        }
-      ]
-    },
-    {
-      "id": "67632-aa3c21ddc63a",
-      "postId": "67632",
-      "title": "종로지구 바자회",
-      "start": "2026-11-08",
-      "dateSpans": [
-        {
-          "start": "2026-11-08"
-        }
-      ],
-      "venue": "종로교당",
-      "region": "서울교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-      "sourceTitle": "서울교구 알림(10월 29일)",
-      "evidence": "D 일시: 11월 8일",
-      "reviewStatus": "auto_unverified",
-      "confidence": "medium",
-      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png",
-      "aliases": [],
-      "regions": [
-        "서울교구"
-      ],
-      "sources": [
-        {
-          "postId": "67632",
-          "region": "서울교구",
-          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67632",
-          "sourceTitle": "서울교구 알림(10월 29일)",
-          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/338939b8-7e9d-4823-8a82-e42368b460f8.png"
         }
       ]
     },
