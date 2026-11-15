@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-14T05:44:22.390633+00:00",
-  "sampleSize": 237,
+  "generatedAt": "2026-11-15T05:39:12.041941+00:00",
+  "sampleSize": 238,
   "posts": [
+    {
+      "id": "67685",
+      "title": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
+      "region": "군종교구",
+      "publishedAt": "2026-11-15T04:00:25.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67685",
+      "imageCount": 13,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 2
+    },
     {
       "id": "67684",
       "title": "강원교구 알림 (111.11.13)",
@@ -4243,6 +4254,38 @@
       ]
     },
     {
+      "id": "67685-b6f1ff9f6795",
+      "postId": "67685",
+      "title": "답례품 포장작업(연무)",
+      "start": "2026-11-21",
+      "dateSpans": [
+        {
+          "start": "2026-11-21"
+        }
+      ],
+      "venue": "",
+      "region": "군종교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67685",
+      "sourceTitle": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
+      "evidence": "11월 21일 - 답례품 포장작업(연무)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fae02941-77df-428c-8c1f-6f9d8963d0a7.png",
+      "aliases": [],
+      "regions": [
+        "군종교구"
+      ],
+      "sources": [
+        {
+          "postId": "67685",
+          "region": "군종교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67685",
+          "sourceTitle": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fae02941-77df-428c-8c1f-6f9d8963d0a7.png"
+        }
+      ]
+    },
+    {
       "id": "67629-629ec7f10116",
       "postId": "67671",
       "title": "청년연합법회 및 정기총회",
@@ -4288,6 +4331,38 @@
           "sourceUrl": "https://won.or.kr/board/BD00010000/read/67629",
           "sourceTitle": " 중앙교구 알림(10.29)",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "67685-5dab19907cf9",
+      "postId": "67685",
+      "title": "교구공부모임 (10:00~10:30 ZOOM)",
+      "start": "2026-11-20T10:00:00+09:00",
+      "dateSpans": [
+        {
+          "start": "2026-11-20T10:00:00+09:00"
+        }
+      ],
+      "venue": "",
+      "region": "군종교구",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67685",
+      "sourceTitle": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
+      "evidence": "11월 20일 - 교구공부모임 (10:00~10:30 ZOOM)",
+      "reviewStatus": "auto_unverified",
+      "confidence": "low",
+      "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fae02941-77df-428c-8c1f-6f9d8963d0a7.png",
+      "aliases": [],
+      "regions": [
+        "군종교구"
+      ],
+      "sources": [
+        {
+          "postId": "67685",
+          "region": "군종교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67685",
+          "sourceTitle": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
+          "imageUrl": "https://won.or.kr/api/files/FILE0002/download/fae02941-77df-428c-8c1f-6f9d8963d0a7.png"
         }
       ]
     },
