@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-15T05:39:12.041941+00:00",
-  "sampleSize": 238,
+  "generatedAt": "2026-11-16T05:38:46.347746+00:00",
+  "sampleSize": 239,
   "posts": [
+    {
+      "id": "67686",
+      "title": "영광교구 현장소식 11월 상반기",
+      "region": "영광교구",
+      "publishedAt": "2026-11-15T11:43:18.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67686",
+      "imageCount": 1,
+      "errors": [],
+      "status": "no_schedule",
+      "eventCount": 0
+    },
     {
       "id": "67685",
       "title": "군종교구 주간알림 111-27(육군훈련소 연무대교당, 35사단 충경교당)",
