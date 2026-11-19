@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-16T05:38:46.347746+00:00",
-  "sampleSize": 239,
+  "generatedAt": "2026-11-19T05:39:38.047590+00:00",
+  "sampleSize": 241,
   "posts": [
+    {
+      "id": "67719",
+      "title": "광주전남교구 알림(111.11.19)",
+      "region": "광주전남교구",
+      "publishedAt": "2026-11-19T05:15:11.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67719",
+      "imageCount": 13,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
+    },
+    {
+      "id": "67715",
+      "title": "경남교구 공지 111.11.19.",
+      "region": "경남교구",
+      "publishedAt": "2026-11-19T00:25:58.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67715",
+      "imageCount": 0,
+      "errors": [],
+      "status": "needs_review",
+      "eventCount": 0
+    },
     {
       "id": "67686",
       "title": "영광교구 현장소식 11월 상반기",
