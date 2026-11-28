@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-27T05:43:36.673903+00:00",
-  "sampleSize": 259,
+  "generatedAt": "2026-11-28T05:39:23.294620+00:00",
+  "sampleSize": 260,
   "posts": [
+    {
+      "id": "67759",
+      "title": "강원교구 알림 (111.11.27)",
+      "region": "강원교구",
+      "publishedAt": "2026-11-27T08:35:58.000+00:00",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67759",
+      "imageCount": 9,
+      "errors": [],
+      "status": "schedule_found",
+      "eventCount": 1
+    },
     {
       "id": "67752",
       "title": "충북교구 알림(11/27)",
@@ -4488,7 +4499,7 @@
     },
     {
       "id": "67448-45366ca1e093",
-      "postId": "67726",
+      "postId": "67759",
       "title": "심심풀이",
       "start": "2026-12-03",
       "dateSpans": [
@@ -4501,12 +4512,12 @@
       ],
       "venue": "강원중학교",
       "region": "강원교구",
-      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67726",
-      "sourceTitle": "강원교구 알림 (111.11.20)",
+      "sourceUrl": "https://won.or.kr/board/BD00010000/read/67759",
+      "sourceTitle": "강원교구 알림 (111.11.27)",
       "evidence": "날짜: 12.3(목), 12.11(금)",
       "reviewStatus": "auto_unverified",
       "confidence": "low",
-      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/fc5f0f47-5dc0-4005-9bcd-3fbf297657af.png",
+      "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d6fe3f96-dbfc-4c86-a1cd-4d399f004cde.png",
       "aliases": [
         "67176-53f3f6a6a2be",
         "67202-db9f8e7f58e2",
@@ -4526,12 +4537,20 @@
         "67638-b077e5fbde4d",
         "67663-6892366284cd",
         "67684-7490d6fe2b8d",
-        "67726-d6a9a98d2af7"
+        "67726-d6a9a98d2af7",
+        "67759-f85a873da1b5"
       ],
       "regions": [
         "강원교구"
       ],
       "sources": [
+        {
+          "postId": "67759",
+          "region": "강원교구",
+          "sourceUrl": "https://won.or.kr/board/BD00010000/read/67759",
+          "sourceTitle": "강원교구 알림 (111.11.27)",
+          "imageUrl": "https://won.or.kr/api/files/FILE9999/download/d6fe3f96-dbfc-4c86-a1cd-4d399f004cde.png"
+        },
         {
           "postId": "67726",
           "region": "강원교구",
